@@ -10,6 +10,7 @@ actors
 	mr_i_iris
 textures
 	title_screen_bg
+	spooky
 
 
 TO COPY
