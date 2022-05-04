@@ -1,6 +1,16 @@
 levels
 	bbh
 	hmc
+actors
+	boo
+	boo_castle
+	coin
+	cannon_lid
+	heart
+	mr_i_iris
+
 
 TO COPY
-actually all the pngs are in the folders we have! okay!
+need more actors
+Have copied all relevant actors in alphabetical order up to:
+	butterfly

@@ -22,7 +22,7 @@ Guess what happens next.
 ## The Collapse  
 > Why stop there? Why not retexture things in levels? Why not retexture entities?
 
-I intentionally limited myself to textures such as Swoop's Wings or the maps of Hazy Maze Cave, since I wasn't sure what would happen if I tried anything else. Generally, I either told CLIP to generate something taken from GPT-2's work or my own description of what the texture is. While the general technique remains the same, I do edit some textures to better match the original, as well as continuing to manually remove backgrounds.
+I intentionally limited myself to textures such as Swoop's Wings or the maps of Hazy Maze Cave, since I wasn't sure what would happen if I tried anything else. Generally, I either told CLIP to generate something taken from GPT-2's work or my own description of what the texture is. While the general technique remains the same, I do edit some textures to better match the original, as well as continuing to manually remove backgrounds. For some animated textures such as coins, I used different versions of the same image.
 I now have an Alpha Build.
 
 ## The End
@@ -37,7 +37,7 @@ I now have an Alpha Build.
 > ***Chaos.***
 
 For most of the finer textures, I gave VQGAN+CLIP the original texture to upscale to 4x resolution, as well as my best guess at what the texture actually is. To make it loop (close to) properly, I shifted the output by a little bit in each direction and put it back through VQGAN for a couple of iterations, creating a coherent transition.  
-A 4x upscale was chosen because that was the scale at which I had generated most of the preexisting images, in order to not put VQGAN under too much strain. Downscaling to the original resolution sacrificed a lot of finer detail that I really liked.
+A 4x upscale was chosen because that was the scale at which I had generated most of the preexisting images, in order to not put VQGAN under too much strain. Downscaling to the original resolution had sacrificed a lot of finer detail that I really liked.
 
 I was still editing textures to be transparent manually, using [*paint.net.*](getpaint.net) As you can imagine, this was tedious and imprecise. I looked for a neural network that supported transparent images... no dice.
 
