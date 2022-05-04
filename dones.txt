@@ -8,6 +8,8 @@ actors
 	cannon_lid
 	heart
 	mr_i_iris
+textures
+	title_screen_bg
 
 
 TO COPY
