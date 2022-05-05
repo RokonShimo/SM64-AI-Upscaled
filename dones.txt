@@ -4,16 +4,18 @@ levels
 actors
 	boo
 	boo_castle
+	book
+	bookend
+	chair
 	coin
 	cannon_lid
+	explosion
 	heart
+	mad_piano
 	mr_i_iris
 textures
 	title_screen_bg
 	spooky
 
 
-TO COPY
-need more actors
-Have copied all relevant actors in alphabetical order up to:
-	butterfly
+COPYING COMPLETE
