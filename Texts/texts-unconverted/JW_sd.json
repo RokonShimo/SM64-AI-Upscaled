@@ -288,7 +288,7 @@
                 "Snow Star: Whomp!",
                 "The Star that can be seen",
                 "through the ice is Whomp.",
-                "And you!"
+                "And you!",
                 "/CIASTRE!/Who Remembers?"
             ]
         },
@@ -1148,7 +1148,7 @@
                 "That's It, Mario! He'll",
                 "pour over anything he touches",
                 "that makes a light bubble",
-                "appear."
+                "appear.",
                 "Try again later.",
                 "I'll be waiting!",
                 "//--The Big Bobopiprist"
@@ -1174,6 +1174,7 @@
                 "fire from farther,",
                 "the winner(s) will be",
                 "courseily punished."
+			]
         },
         {
             "ID": 61,
@@ -1801,10 +1802,10 @@
             "lines": [
                 "If something goes awry, red",
                 "-invisible Since Level 30",
-                "activities shall resume, no one shall"
+                "activities shall resume, no one shall",
                 "hunt you...",
-                "you...the objects you found"
-                "will no't harm you, they're-"
+                "you...the objects you found",
+                "will no't harm you, they're-",
                 "crushed into the ground!"
             ]
         },
@@ -3117,165 +3118,165 @@
         {
             "course": " 1 NAVY SANTA BREZAURY",
             "acts": [
-                "WILL YOU SWITCH CHEAP WITH THE KEEPOLE?"
-                "THE RED DEVIL"
-                "RIGHT-CLICK AND SELECT {12302}AWARE{12303}"
-                "RESPAWN ON BOB-OMB ISLAND"
-                "END OF THE OPERA TOURNAMENT"
+                "WILL YOU SWITCH CHEAP WITH THE KEEPOLE?",
+                "THE RED DEVIL",
+                "RIGHT-CLICK AND SELECT {12302}AWARE{12303}",
+                "RESPAWN ON BOB-OMB ISLAND",
+                "END OF THE OPERA TOURNAMENT",
                 "THROUGH THE TINY CAVE"
             ]
         },
         {
             "course": " 2 WORST-SAFE WAY TO WATERFALL",
             "acts": [
-                "NO THANKS, POOR BOY"
-                "NOT COOL!"
-                "THE RED STAR"
-                "RULES, PLEASE READ"
-                "AD DEMAND AMPS?"
+                "NO THANKS, POOR BOY",
+                "NOT COOL!",
+                "THE RED STAR",
+                "RULES, PLEASE READ",
+                "AD DEMAND AMPS?",
                 "STUNNED AND FURYFUL"
             ]
         },
         {
             "course": " 3 ICE TILL TO BECOME A GOD",
             "acts": [
-                "THE STEP BY STEP GUIDE"
-                "IT'S A LONG, LONELY ROAD"
-                "STEP 11: CASTLE 2"
-                "STEP ON EIGHT STAR!"
-                "YOU ARE AN EARTHKNIGHT."
+                "THE STEP BY STEP GUIDE",
+                "IT'S A LONG, LONELY ROAD",
+                "STEP 11: CASTLE 2",
+                "STEP ON EIGHT STAR!",
+                "YOU ARE AN EARTHKNIGHT.",
                 "JUMP ON THE SECOND RING!"
             ]
         },
         {
             "course": " 4 ICE TILL TO BECOME A GOD",
             "acts": [
-                "GO ON SNOWS TO OBSERVATE THE WORLD"
-                "BE A SKYGOGER, FORIEST ONI SHALL"
-                "PRESS RELEASE"
-                "CARE IN THE SUNSHINE PARAGRAPH"
-                "GO ON TINY METAL QUARTERS"
+                "GO ON SNOWS TO OBSERVATE THE WORLD",
+                "BE A SKYGOGER, FORIEST ONI SHALL",
+                "PRESS RELEASE",
+                "CARE IN THE SUNSHINE PARAGRAPH",
+                "GO ON TINY METAL QUARTERS",
                 "SHOCKING QUICK STEPS"
             ]
         },
         {
             "course": " 5 ICE CAPACITALS FORT ON",
             "acts": [
-                "BOB-OMB, THE RACOON KING"
-                "BEYOND TRANSLATED CHAPTER"
-                "THE LONG NIGHT..."
-                "SCALE? EMPLOYEER!"
-                "A SECRET OF KOTON!"
+                "BOB-OMB, THE RACOON KING",
+                "BEYOND TRANSLATED CHAPTER",
+                "THE LONG NIGHT...",
+                "SCALE? EMPLOYEER!",
+                "A SECRET OF KOTON!",
                 "DEFINITELY CONDATED"
             ]
         },
         {
             "course": " 6 SALE RAINBOW LOST FOR REVENGE",
             "acts": [
-                "THROUGH THE SMALL ANCIENT BOMB!"
-                "SLIP SKIRL IN THE SKY"
-                "BOWSER BIGFOO"
-                "BIG BOB-OMB! WATCH FOR ROBBIE!"
-                "BE RENDERING STEAM LAND"
+                "THROUGH THE SMALL ANCIENT BOMB!",
+                "SLIP SKIRL IN THE SKY",
+                "BOWSER BIGFOO",
+                "BIG BOB-OMB! WATCH FOR ROBBIE!",
+                "BE RENDERING STEAM LAND",
                 "ELEVATE ROLLING BATTLE FOR BOWSER"
             ]
         },
         {
             "course": " 7 SWITCHBORO ADVISORY",
             "acts": [
-                "GRAND PRIZE ON FOR BEING EARLY"
-                "BEAT THE BULLY"
-                "BOTH OF YOU A RUNAWAY!"
-                "FROSTY TURBO IN THE TOWN"
-                "MONTHLY AND LUNCH SPECIAL!"
+                "GRAND PRIZE ON FOR BEING EARLY",
+                "BEAT THE BULLY",
+                "BOTH OF YOU A RUNAWAY!",
+                "FROSTY TURBO IN THE TOWN",
+                "MONTHLY AND LUNCH SPECIAL!",
                 "LOCKE THE PYRAMID"
             ]
         },
         {
             "course": " 8 IN THE LAND OF TRAP AND DAMAGE",
             "acts": [
-                "ODORIER BROS."
-                "PREPARE TO PLAYAN IWO"
-                "QUICK, DIRTY WORK!"
-                "SECRET OF WIMMING IN THE CAGE"
-                "19 SCATTERED BACKGROUNDS"
+                "ODORIER BROS.",
+                "PREPARE TO PLAYAN IWO",
+                "QUICK, DIRTY WORK!",
+                "SECRET OF WIMMING IN THE CAGE",
+                "19 SCATTERED BACKGROUNDS",
                 "CAPS ON THE TOP OF THE TOWER"
             ]
         },
         {
             "course": " 9 THE LUNATIC VALLEY",
             "acts": [
-                "RIDE ARTICULATED TO THE NOSE!"
-                "A BUG! BIG TROUBLE"
-                "HARDER STORM LOCATION"
-                "COUNTERSINK IS CURVED ON"
-                "HE'S ONLY A FRIEND!"
+                "RIDE ARTICULATED TO THE NOSE!",
+                "A BUG! BIG TROUBLE",
+                "HARDER STORM LOCATION",
+                "COUNTERSINK IS CURVED ON",
+                "HE'S ONLY A FRIEND!",
                 "AND POWER SWORDS DISCARD"
             ]
         },
         {
             "course": "10 BRIDGE, MICHIGAN",
             "acts": [
-                "CHIP CHIP! BUILD TOBIN'S PLATFORM"
-                "WELFARE, DISCRIMINATION, AND THE WAR ON WOMEN"
-                "SHOCKING MERCULIVE CLIMATE"
-                "THE CAVERN IS BACK"
-                "COURSE OF THE OCEAN"
+                "CHIP CHIP! BUILD TOBIN'S PLATFORM",
+                "WELFARE, DISCRIMINATION, AND THE WAR ON WOMEN",
+                "SHOCKING MERCULIVE CLIMATE",
+                "THE CAVERN IS BACK",
+                "COURSE OF THE OCEAN",
                 "BELOW! VIDEO GAME COMEDY BUST!"
             ]
         },
         {
             "course": "11 AWARD WINNER'S COSTL",
             "acts": [
-                "ELEANOR'S SECRET CAMO"
-                "PULL UP ON VANISHIMERA"
-                "MODEING THROUGH THE SWORDBEATS"
-                "WATCH FOR JUMP SHOOT"
-                "METAL JACK COINS!!"
+                "ELEANOR'S SECRET CAMO",
+                "PULL UP ON VANISHIMERA",
+                "MODEING THROUGH THE SWORDBEATS",
+                "WATCH FOR JUMP SHOOT",
+                "METAL JACK COINS!!",
                 "TAKE A SLUT"
             ]
         },
         {
             "course": "12 SIZY ASSAULT THE EAGLE TRIBAL GUARDS",
             "acts": [
-                "YUREA"
-                "INSTAGRAM'S RED PERIOD"
-                "TO THEE MAY SHE BELLOW?"
-                "3,590 LB WARD WHEEL WHEEL WITH STRAIGHT LONELY TOPOLOGY"
-                "CAN IT MOVE ME?"
+                "YUREA",
+                "INSTAGRAM'S RED PERIOD",
+                "TO THEE MAY SHE BELLOW?",
+                "3,590 LB WARD WHEEL WHEEL WITH STRAIGHT LONELY TOPOLOGY",
+                "CAN IT MOVE ME?",
                 "DEFINE! DIE NEXT TIME!"
             ]
         },
         {
             "course": "13 HACK DIVINE",
             "acts": [
-                "BIBIT!"
-                "ARGOK'S RESISTOR?"
-                "THE BIG BULL-ARRIED BULL CORNER"
-                "EVERY QUISFLEX CROSS GOOD INTO BAD COIN"
-                "YOU'LL BE A INTO MARIO"
+                "BIBIT!",
+                "ARGOK'S RESISTOR?",
+                "THE BIG BULL-ARRIED BULL CORNER",
+                "EVERY QUISFLEX CROSS GOOD INTO BAD COIN",
+                "YOU'LL BE A INTO MARIO",
                 "STAND TALL MONOPOLISES IN"
             ]
         },
         {
             "course": "14 AWESOME WET ANALYST",
             "acts": [
-                "WORK IN THE DISCHARGE STAR"
-                "RATINGS DUE THIS SUMMER"
-                "ZOWIE INTERACTIVE, INC."
-                "THE STEAM MAGNIFIER!"
-                "BETTER CLIMBING UNDER THE STARS"
+                "WORK IN THE DISCHARGE STAR",
+                "RATINGS DUE THIS SUMMER",
+                "ZOWIE INTERACTIVE, INC.",
+                "THE STEAM MAGNIFIER!",
+                "BETTER CLIMBING UNDER THE STARS",
                 "SUBMISS TO THE ANCIENT WHOM"
             ]
         },
         {
             "course": "15 UPPER LOWER BIG BENINS",
             "acts": [
-                "BLAST AWAY THE HIGH PRESSOFANE"
-                "WHIPS CONTAIN THREE WHISPERS"
-                "CONSIDER THE TIME: 3:30 PM."
-                "TOWN OF THE REVENGE'S"
-                "ARE CRIMINALS TARGET CROSSING THE DARK SKY"
+                "BLAST AWAY THE HIGH PRESSOFANE",
+                "WHIPS CONTAIN THREE WHISPERS",
+                "CONSIDER THE TIME: 3:30 PM.",
+                "TOWN OF THE REVENGE'S",
+                "ARE CRIMINALS TARGET CROSSING THE DARK SKY",
                 "CAP'N"
             ]
         },
@@ -3718,7 +3719,7 @@
         "TEXT_ERASE": "ALLIANCE OVERRIDE",
         "TEXT_STEREO": "ANDALOGUE",
         "TEXT_MONO": "NAOKO",
-        "TEXT_HEADSET": "PHONES",,
+        "TEXT_HEADSET": "PHONES",
         "TEXT_SAVED_DATA_EXISTS": "ONI AGGRESSION",
         "TEXT_NO_SAVED_DATA_EXISTS": "OH MY GOD, WHERE'S THE KING BEGIS",
         "TEXT_RETURN": "SPAIN TRAINER",
