@@ -57,11 +57,11 @@ index c221a818..a83cf82f 100644
  
  struct CreditsEntry sCreditsSequence[] = {
      { LEVEL_CASTLE_GROUNDS, 1, 1, -128, { 0, 8000, 0 }, NULL },
-diff --git a/texts/JW_sd.dynos.json b/texts/JW_sd.dynos.json
+diff --git a/texts-unconverted/JW_sd.dynos.json b/texts-unconverted/JW_sd.dynos.json
 new file mode 100644
 index 00000000..b1ae8902
 --- /dev/null
-+++ b/texts/JW_sd.dynos.json
++++ b/texts-unconverted/JW_sd.dynos.json
 @@ -0,0 +1,85 @@
 +{
 +  "manifest": {
@@ -149,12 +149,12 @@ index 00000000..b1ae8902
 +  }
 +}
 \ No newline at end of file
-diff --git a/texts/JW_sd.json b/texts/JW_sd.json
+diff --git a/texts-unconverted/JW_sd.json b/texts-unconverted/JW_sd.json
 new file mode 100644
-index 00000000..b03662e8
+index 00000000..b7d7d23e
 --- /dev/null
-+++ b/texts/JW_sd.json
-@@ -0,0 +1,3768 @@
++++ b/texts-unconverted/JW_sd.json
+@@ -0,0 +1,3769 @@
 +{
 +    "manifest": {
 +        "langName": "Mario Party: The Muppets",
@@ -445,7 +445,7 @@ index 00000000..b03662e8
 +                "Snow Star: Whomp!",
 +                "The Star that can be seen",
 +                "through the ice is Whomp.",
-+                "And you!"
++                "And you!",
 +                "/CIASTRE!/Who Remembers?"
 +            ]
 +        },
@@ -1305,7 +1305,7 @@ index 00000000..b03662e8
 +                "That's It, Mario! He'll",
 +                "pour over anything he touches",
 +                "that makes a light bubble",
-+                "appear."
++                "appear.",
 +                "Try again later.",
 +                "I'll be waiting!",
 +                "//--The Big Bobopiprist"
@@ -1331,6 +1331,7 @@ index 00000000..b03662e8
 +                "fire from farther,",
 +                "the winner(s) will be",
 +                "courseily punished."
++			]
 +        },
 +        {
 +            "ID": 61,
@@ -1958,10 +1959,10 @@ index 00000000..b03662e8
 +            "lines": [
 +                "If something goes awry, red",
 +                "-invisible Since Level 30",
-+                "activities shall resume, no one shall"
++                "activities shall resume, no one shall",
 +                "hunt you...",
-+                "you...the objects you found"
-+                "will no't harm you, they're-"
++                "you...the objects you found",
++                "will no't harm you, they're-",
 +                "crushed into the ground!"
 +            ]
 +        },
@@ -3274,165 +3275,165 @@ index 00000000..b03662e8
 +        {
 +            "course": " 1 NAVY SANTA BREZAURY",
 +            "acts": [
-+                "WILL YOU SWITCH CHEAP WITH THE KEEPOLE?"
-+                "THE RED DEVIL"
-+                "RIGHT-CLICK AND SELECT {12302}AWARE{12303}"
-+                "RESPAWN ON BOB-OMB ISLAND"
-+                "END OF THE OPERA TOURNAMENT"
++                "WILL YOU SWITCH CHEAP WITH THE KEEPOLE?",
++                "THE RED DEVIL",
++                "RIGHT-CLICK AND SELECT {12302}AWARE{12303}",
++                "RESPAWN ON BOB-OMB ISLAND",
++                "END OF THE OPERA TOURNAMENT",
 +                "THROUGH THE TINY CAVE"
 +            ]
 +        },
 +        {
 +            "course": " 2 WORST-SAFE WAY TO WATERFALL",
 +            "acts": [
-+                "NO THANKS, POOR BOY"
-+                "NOT COOL!"
-+                "THE RED STAR"
-+                "RULES, PLEASE READ"
-+                "AD DEMAND AMPS?"
++                "NO THANKS, POOR BOY",
++                "NOT COOL!",
++                "THE RED STAR",
++                "RULES, PLEASE READ",
++                "AD DEMAND AMPS?",
 +                "STUNNED AND FURYFUL"
 +            ]
 +        },
 +        {
 +            "course": " 3 ICE TILL TO BECOME A GOD",
 +            "acts": [
-+                "THE STEP BY STEP GUIDE"
-+                "IT'S A LONG, LONELY ROAD"
-+                "STEP 11: CASTLE 2"
-+                "STEP ON EIGHT STAR!"
-+                "YOU ARE AN EARTHKNIGHT."
++                "THE STEP BY STEP GUIDE",
++                "IT'S A LONG, LONELY ROAD",
++                "STEP 11: CASTLE 2",
++                "STEP ON EIGHT STAR!",
++                "YOU ARE AN EARTHKNIGHT.",
 +                "JUMP ON THE SECOND RING!"
 +            ]
 +        },
 +        {
 +            "course": " 4 ICE TILL TO BECOME A GOD",
 +            "acts": [
-+                "GO ON SNOWS TO OBSERVATE THE WORLD"
-+                "BE A SKYGOGER, FORIEST ONI SHALL"
-+                "PRESS RELEASE"
-+                "CARE IN THE SUNSHINE PARAGRAPH"
-+                "GO ON TINY METAL QUARTERS"
++                "GO ON SNOWS TO OBSERVATE THE WORLD",
++                "BE A SKYGOGER, FORIEST ONI SHALL",
++                "PRESS RELEASE",
++                "CARE IN THE SUNSHINE PARAGRAPH",
++                "GO ON TINY METAL QUARTERS",
 +                "SHOCKING QUICK STEPS"
 +            ]
 +        },
 +        {
 +            "course": " 5 ICE CAPACITALS FORT ON",
 +            "acts": [
-+                "BOB-OMB, THE RACOON KING"
-+                "BEYOND TRANSLATED CHAPTER"
-+                "THE LONG NIGHT..."
-+                "SCALE? EMPLOYEER!"
-+                "A SECRET OF KOTON!"
++                "BOB-OMB, THE RACOON KING",
++                "BEYOND TRANSLATED CHAPTER",
++                "THE LONG NIGHT...",
++                "SCALE? EMPLOYEER!",
++                "A SECRET OF KOTON!",
 +                "DEFINITELY CONDATED"
 +            ]
 +        },
 +        {
 +            "course": " 6 SALE RAINBOW LOST FOR REVENGE",
 +            "acts": [
-+                "THROUGH THE SMALL ANCIENT BOMB!"
-+                "SLIP SKIRL IN THE SKY"
-+                "BOWSER BIGFOO"
-+                "BIG BOB-OMB! WATCH FOR ROBBIE!"
-+                "BE RENDERING STEAM LAND"
++                "THROUGH THE SMALL ANCIENT BOMB!",
++                "SLIP SKIRL IN THE SKY",
++                "BOWSER BIGFOO",
++                "BIG BOB-OMB! WATCH FOR ROBBIE!",
++                "BE RENDERING STEAM LAND",
 +                "ELEVATE ROLLING BATTLE FOR BOWSER"
 +            ]
 +        },
 +        {
 +            "course": " 7 SWITCHBORO ADVISORY",
 +            "acts": [
-+                "GRAND PRIZE ON FOR BEING EARLY"
-+                "BEAT THE BULLY"
-+                "BOTH OF YOU A RUNAWAY!"
-+                "FROSTY TURBO IN THE TOWN"
-+                "MONTHLY AND LUNCH SPECIAL!"
++                "GRAND PRIZE ON FOR BEING EARLY",
++                "BEAT THE BULLY",
++                "BOTH OF YOU A RUNAWAY!",
++                "FROSTY TURBO IN THE TOWN",
++                "MONTHLY AND LUNCH SPECIAL!",
 +                "LOCKE THE PYRAMID"
 +            ]
 +        },
 +        {
 +            "course": " 8 IN THE LAND OF TRAP AND DAMAGE",
 +            "acts": [
-+                "ODORIER BROS."
-+                "PREPARE TO PLAYAN IWO"
-+                "QUICK, DIRTY WORK!"
-+                "SECRET OF WIMMING IN THE CAGE"
-+                "19 SCATTERED BACKGROUNDS"
++                "ODORIER BROS.",
++                "PREPARE TO PLAYAN IWO",
++                "QUICK, DIRTY WORK!",
++                "SECRET OF WIMMING IN THE CAGE",
++                "19 SCATTERED BACKGROUNDS",
 +                "CAPS ON THE TOP OF THE TOWER"
 +            ]
 +        },
 +        {
 +            "course": " 9 THE LUNATIC VALLEY",
 +            "acts": [
-+                "RIDE ARTICULATED TO THE NOSE!"
-+                "A BUG! BIG TROUBLE"
-+                "HARDER STORM LOCATION"
-+                "COUNTERSINK IS CURVED ON"
-+                "HE'S ONLY A FRIEND!"
++                "RIDE ARTICULATED TO THE NOSE!",
++                "A BUG! BIG TROUBLE",
++                "HARDER STORM LOCATION",
++                "COUNTERSINK IS CURVED ON",
++                "HE'S ONLY A FRIEND!",
 +                "AND POWER SWORDS DISCARD"
 +            ]
 +        },
 +        {
 +            "course": "10 BRIDGE, MICHIGAN",
 +            "acts": [
-+                "CHIP CHIP! BUILD TOBIN'S PLATFORM"
-+                "WELFARE, DISCRIMINATION, AND THE WAR ON WOMEN"
-+                "SHOCKING MERCULIVE CLIMATE"
-+                "THE CAVERN IS BACK"
-+                "COURSE OF THE OCEAN"
++                "CHIP CHIP! BUILD TOBIN'S PLATFORM",
++                "WELFARE, DISCRIMINATION, AND THE WAR ON WOMEN",
++                "SHOCKING MERCULIVE CLIMATE",
++                "THE CAVERN IS BACK",
++                "COURSE OF THE OCEAN",
 +                "BELOW! VIDEO GAME COMEDY BUST!"
 +            ]
 +        },
 +        {
 +            "course": "11 AWARD WINNER'S COSTL",
 +            "acts": [
-+                "ELEANOR'S SECRET CAMO"
-+                "PULL UP ON VANISHIMERA"
-+                "MODEING THROUGH THE SWORDBEATS"
-+                "WATCH FOR JUMP SHOOT"
-+                "METAL JACK COINS!!"
++                "ELEANOR'S SECRET CAMO",
++                "PULL UP ON VANISHIMERA",
++                "MODEING THROUGH THE SWORDBEATS",
++                "WATCH FOR JUMP SHOOT",
++                "METAL JACK COINS!!",
 +                "TAKE A SLUT"
 +            ]
 +        },
 +        {
 +            "course": "12 SIZY ASSAULT THE EAGLE TRIBAL GUARDS",
 +            "acts": [
-+                "YUREA"
-+                "INSTAGRAM'S RED PERIOD"
-+                "TO THEE MAY SHE BELLOW?"
-+                "3,590 LB WARD WHEEL WHEEL WITH STRAIGHT LONELY TOPOLOGY"
-+                "CAN IT MOVE ME?"
++                "YUREA",
++                "INSTAGRAM'S RED PERIOD",
++                "TO THEE MAY SHE BELLOW?",
++                "3,590 LB WARD WHEEL WHEEL WITH STRAIGHT LONELY TOPOLOGY",
++                "CAN IT MOVE ME?",
 +                "DEFINE! DIE NEXT TIME!"
 +            ]
 +        },
 +        {
 +            "course": "13 HACK DIVINE",
 +            "acts": [
-+                "BIBIT!"
-+                "ARGOK'S RESISTOR?"
-+                "THE BIG BULL-ARRIED BULL CORNER"
-+                "EVERY QUISFLEX CROSS GOOD INTO BAD COIN"
-+                "YOU'LL BE A INTO MARIO"
++                "BIBIT!",
++                "ARGOK'S RESISTOR?",
++                "THE BIG BULL-ARRIED BULL CORNER",
++                "EVERY QUISFLEX CROSS GOOD INTO BAD COIN",
++                "YOU'LL BE A INTO MARIO",
 +                "STAND TALL MONOPOLISES IN"
 +            ]
 +        },
 +        {
 +            "course": "14 AWESOME WET ANALYST",
 +            "acts": [
-+                "WORK IN THE DISCHARGE STAR"
-+                "RATINGS DUE THIS SUMMER"
-+                "ZOWIE INTERACTIVE, INC."
-+                "THE STEAM MAGNIFIER!"
-+                "BETTER CLIMBING UNDER THE STARS"
++                "WORK IN THE DISCHARGE STAR",
++                "RATINGS DUE THIS SUMMER",
++                "ZOWIE INTERACTIVE, INC.",
++                "THE STEAM MAGNIFIER!",
++                "BETTER CLIMBING UNDER THE STARS",
 +                "SUBMISS TO THE ANCIENT WHOM"
 +            ]
 +        },
 +        {
 +            "course": "15 UPPER LOWER BIG BENINS",
 +            "acts": [
-+                "BLAST AWAY THE HIGH PRESSOFANE"
-+                "WHIPS CONTAIN THREE WHISPERS"
-+                "CONSIDER THE TIME: 3:30 PM."
-+                "TOWN OF THE REVENGE'S"
-+                "ARE CRIMINALS TARGET CROSSING THE DARK SKY"
++                "BLAST AWAY THE HIGH PRESSOFANE",
++                "WHIPS CONTAIN THREE WHISPERS",
++                "CONSIDER THE TIME: 3:30 PM.",
++                "TOWN OF THE REVENGE'S",
++                "ARE CRIMINALS TARGET CROSSING THE DARK SKY",
 +                "CAP'N"
 +            ]
 +        },
@@ -3875,7 +3876,3874 @@ index 00000000..b03662e8
 +        "TEXT_ERASE": "ALLIANCE OVERRIDE",
 +        "TEXT_STEREO": "ANDALOGUE",
 +        "TEXT_MONO": "NAOKO",
-+        "TEXT_HEADSET": "PHONES",,
++        "TEXT_HEADSET": "PHONES",
++        "TEXT_SAVED_DATA_EXISTS": "ONI AGGRESSION",
++        "TEXT_NO_SAVED_DATA_EXISTS": "OH MY GOD, WHERE'S THE KING BEGIS",
++        "TEXT_RETURN": "SPAIN TRAINER",
++        "TEXT_CHECK_SCORE": "THE SHOWHOUSE",
++        "TEXT_COPY_FILE_BUTTON": "OVERLAYOR",
++        "TEXT_ERASE_FILE_BUTTON": "GOVERNOR",
++        "TEXT_HI_SCORE": "WINNING FLAG",
++        "TEXT_MY_SCORE": "SPEEDEL",
++        "TEXT_SCORE_MARIO_A": "{09786}A",
++        "TEXT_SCORE_MARIO_B": "{09786}B",
++        "TEXT_SCORE_MARIO_C": "{09786}C",
++        "TEXT_SCORE_MARIO_D": "{09786}D",
++        "TEXT_COPY_IT_TO_WHERE": "HIDE THE LEFT SCREEN SHOT",
++        "TEXT_COPYING_COMPLETED": "MARIO WHERE MARIO IS MARIO",
++        "TEXT_NO_FILE_TO_COPY_FROM": "THE FRENCH MEDIA ARE IN CRISIS",
++        "TEXT_SURE": "REVENGE",
++        "TEXT_YES": "SONIC",
++        "TEXT_NO": "IKEA",
++        "TEXT_FILE_MARIO_A_JUST_ERASED": "E12 MARIO",
++        "TEXT_COURSE": "SOMETHING",
++        "TEXT_MYSCORE": "SEPHORA",
++        "TEXT_CONTINUE": "SMALL BUS",
++        "TEXT_EXIT_COURSE": "WATERFLEET",
++        "TEXT_EXIT_GAME": "TOP SPEED FOOTBALL",
++        "TEXT_CAMERA_ANGLE_R": "SET CAMERA ANGLE WITH R",
++        "TEXT_LAKITU_MARIO": "38 URBAN GOATS",
++        "TEXT_LAKITU_STOP": "GO BIG OR DIE",
++        "TEXT_NORMAL_UPCLOSE": "TAILED BEASTS SING",
++        "TEXT_NORMAL_FIXED": "TURKEY VS EU MOM",
++        "TEXT_CATCH": "AUTO",
++        "TEXT_CLEAR": "NO",
++        "TEXT_HUD_HI_SCORE": "HI SCORE",
++        "TEXT_SAVE_AND_CONTINUE": "SAVE AND START DECEIPATION",
++        "TEXT_SAVE_AND_QUIT": "EXIT COURSE AS AN EXPLORER",
++        "TEXT_SAVE_EXIT_GAME": "EXIT COURSE TO WIN X EUROPEAN CAMERA",
++        "TEXT_CONTINUE_WITHOUT_SAVING": "PEACH CHRISTMASS",
++        "TEXT_FILE_MARIO_EXCLAMATION": "Hey, it's me. RokonShimo.",
++        "TEXT_POWER_STARS_RESTORED": "Thanks for playing this abomination.",
++        "TEXT_THANKS_TO_YOU": "It means a lot to me.",
++        "TEXT_THANK_YOU_MARIO": "Special thanks to Max Woolf and Katherine Crowson...",
++        "TEXT_SOMETHING_SPECIAL": "Without whom none of this would be possible.",
++        "TEXT_LISTEN_EVERYBODY": "Max also made the GPT-2 notebook...",
++        "TEXT_LETS_HAVE_CAKE": "that I used to generate the text.",
++        "TEXT_FOR_MARIO": "Check the Readme and try it out yourself!",
++        "TEXT_FILE_MARIO_QUESTION": "By the way, I changed the credits too."
++    }
++}
+diff --git a/texts/JW_sd.dynos.json b/texts/JW_sd.dynos.json
+new file mode 100644
+index 00000000..b1ae8902
+--- /dev/null
++++ b/texts/JW_sd.dynos.json
+@@ -0,0 +1,85 @@
++{
++  "manifest": {
++    "langName": "Mario Party: The Muppets",
++    "langLogo": "none"
++  },
++  "options": {
++    "DYNOS_TEXT_DYNOS_MENU": "DYNOS MENU",
++    "DYNOS_TEXT_A": "([A]) >",
++    "DYNOS_TEXT_OPEN_LEFT": "[Z] Reuters",
++    "DYNOS_TEXT_CLOSE_LEFT": "[Z] British",
++    "DYNOS_TEXT_OPTIONS_MENU": "TYPHONES",
++    "DYNOS_TEXT_DISABLED": "Target",
++    "DYNOS_TEXT_ENABLED": "Emissions",
++    "DYNOS_TEXT_NONE": "KOOPA KNIGHT",
++    "DYNOS_TEXT_DOT_DOT_DOT": "...",
++    "DYNOS_TEXT_OPEN_RIGHT": "[R] Typhones",
++    "DYNOS_TEXT_CLOSE_RIGHT": "[R] British",
++
++    "DYNOS_LEVEL_TEXT_EMPTY": "",
++    "DYNOS_LEVEL_TEXT_CASTLE": "CASTLE OF THE EXALY",
++    "DYNOS_LEVEL_TEXT_BOWSER_1": "BYTCH A",
++    "DYNOS_LEVEL_TEXT_BOWSER_2": "BYTCH B",
++    "DYNOS_LEVEL_TEXT_BOWSER_3": "BYTCH C",
++    "DYNOS_LEVEL_TEXT_100_COINS_STAR": "OSTEOPOROSIS",
++    "DYNOS_LEVEL_TEXT_RED_COINS_STAR": "THE FIVE PILLAR PHOENIX",
++    "DYNOS_LEVEL_TEXT_ONE_SECRET_STAR": "ONE MORE TO CLOSE THE COURSE'S BLOG!",
++    "DYNOS_LEVEL_TEXT_FOURTH_FLOOR": "THE LAST TALONS OF THE SECRET WAR",
++
++    "DYNOS_AREA_TEXT_NOT_AVAILABLE": "THROUGH THE PRIMARY GAME",
++    "DYNOS_AREA_TEXT_MAIN_AREA": "THAT IS THE BOOK DYNAMICS",
++    "DYNOS_AREA_TEXT_SUNKEN_SHIP": "IT'S A LONG LONELY ROAD",
++    "DYNOS_AREA_TEXT_COTTAGE_SLIDE": "GO ON SNOWS TO OBSERVATE THE WORLD",
++    "DYNOS_AREA_TEXT_VOLCANO": "LOCKE THE PYRAMID",
++    "DYNOS_AREA_TEXT_PYRAMID": "QUICK, DIRTY WORK!",
++    "DYNOS_AREA_TEXT_EYEROCKS_ROOM": "CAPS ON THE TOP OF THE TOWER",
++    "DYNOS_AREA_TEXT_DOCKS": "AND POWER SWORDS DISCARD",
++    "DYNOS_AREA_TEXT_IGLOO": "VIDEO GAME COMEDY BUST",
++    "DYNOS_AREA_TEXT_DOWNTOWN": "TAKE A SLUT",
++    "DYNOS_AREA_TEXT_SECRET_SLIDE": "SECRET VIEW FROM THE 25 STREAMED ILLUMINATED FLOWER",
++    "DYNOS_AREA_TEXT_HUGE_ISLAND": "THE BIG BULL-ARRIED BULL CORNER",
++    "DYNOS_AREA_TEXT_TINY_ISLAND": "EVERY QUISFLEX CROSS GOOD INTO BAD COIN",
++    "DYNOS_AREA_TEXT_WIGGLERS_ROOM": "YOU'LL BE A INTO MARIO",
++    "DYNOS_AREA_TEXT_BOWSER_BATTLE": "BYTCH",
++    "DYNOS_AREA_TEXT_FIRST_FLOOR": "CASTLE OF THE EXALT",
++    "DYNOS_AREA_TEXT_SECOND_FLOOR": "CASTLE OF THE MUSHROOM THOMPS",
++    "DYNOS_AREA_TEXT_BASEMENT": "CASTLE OF THE VANISH SAND",
++
++    "DYNOS_WARP_PARAM_DDD_NOTHING": "A Bug! Big Trouble",
++    "DYNOS_WARP_PARAM_DDD_SUB_ONLY": "Ride Articulated to the Nose!",
++    "DYNOS_WARP_PARAM_DDD_POLES_ONLY": "Harder Storm Location",
++    "DYNOS_WARP_PARAM_DDD_SUB_AND_POLES": "Countersink is Curved On",
++    "DYNOS_WARP_PARAM_WDW_LOWEST": "Metal Jack Coins!",
++    "DYNOS_WARP_PARAM_WDW_LOW": "Modeing Through the Swordbeats",
++    "DYNOS_WARP_PARAM_WDW_HIGH": "Eleanor's Secret Camo",
++    "DYNOS_WARP_PARAM_WDW_HIGHEST": "Watch For Jump Shoot",
++    "DYNOS_WARP_PARAM_THI_FLOODED": "Argok's Resistor?",
++    "DYNOS_WARP_PARAM_THI_DRAINED": "Stand Tall Monopolizes In",
++    "DYNOS_WARP_PARAM_TTC_CLOCK_STOP": "Submiss to the Ancient Whom",
++    "DYNOS_WARP_PARAM_TTC_CLOCK_SLOW": "Better Climbing Under the Stars",
++    "DYNOS_WARP_PARAM_TTC_CLOCK_FAST": "Zowie Interactive, Inc.",
++    "DYNOS_WARP_PARAM_TTC_CLOCK_RANDOM": "Work in the Discharge Star",
++    "DYNOS_WARP_PARAM_NONE": "Through the Primary Game",
++    "DYNOS_WARP_PARAM_EMPTY": "",
++
++    "dynos_restart_level": "A Live Hive Mind or Two",
++    "dynos_exit_level": "Waterfleet",
++    "dynos_return_to_main_menu": "Exit Course as an Explorer",
++    "dynos_warp_to_level_submenu": "Don't Break the Lines",
++    "dynos_warp_to_level_submenu_title": "DON'T BREAK THE LINES",
++    "dynos_warp_level": "East of Town's Venom",
++    "dynos_warp_area": "East of New York's History Success",
++    "dynos_warp_act": "Chase to the Talons of Talons",
++    "dynos_warp_param": "Keep Drills Open",
++    "dynos_warp_to_level": "Lights Move",
++
++    "dynos_warp_to_castle_submenu": "Free Wreck for Skyrim 2",
++    "dynos_warp_to_castle_submenu_title": "FREE WRECK FOR SKYRIM 2",
++    "dynos_warp_castle": "Waterfleet",
++    "dynos_warp_to_castle": "Lights Move",
++
++    "dynos_model_loader_submenu": "Model Packs",
++    "dynos_model_loader_submenu_title": "MODEL PACKS",
++    "dynos_packs_disable_all": "Disable all packs"
++  }
++}
+\ No newline at end of file
+diff --git a/texts/JW_sd.json b/texts/JW_sd.json
+new file mode 100644
+index 00000000..b7d7d23e
+--- /dev/null
++++ b/texts/JW_sd.json
+@@ -0,0 +1,3769 @@
++{
++    "manifest": {
++        "langName": "Mario Party: The Muppets",
++        "langLogo": "none"
++    },
++    "dialogs": [
++        {
++            "ID": 0,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "So it is with King",
++                "Bronn's rule, the",
++                "Princess and their Big",
++                "Griffin have been",
++                "a friendly band since the",
++                "9 11 attacks.",
++                "Now, the Little Big",
++                "Axos, their Secret",
++                "Stars, and their Power",
++                "Arrays into my game",
++                "database are a few",
++                "scenes in.",
++                "try again in",
++                "the seconds 60 to 120",
++                "and final BOTH",
++                "MONTHLY AND LUNCH SPECIAL!",
++                "",
++                "",
++                "You need this as soon",
++                "as possible-take me now",
++                "just before",
++                "ajcneasy 8 a.m. Pacific Standard",
++                "PT Happy Hour!"
++            ]
++        },
++        {
++            "ID": 1,
++            "linesPerBox": 5,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Both Missile Launchers",
++                "on the Big Bob-omb and on",
++                "on the four walls offering",
++                "a fight can cripple an enemy",
++                "forward.",
++                "If you're able to move",
++                "the Body Backers",
++                "ahead, you'll be able",
++                "to fire off a powerful",
++                "bomber at an enemy.",
++                "That's what you do",
++                "against Twitterupts!"
++            ]
++        },
++        {
++            "ID": 2,
++            "linesPerBox": 4,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "It was the Battle of",
++                "Observatory...disappointed,",
++                "but also a big help.",
++                "First, you, the eyes,",
++                "warned us of the Stars,",
++                "all-powerful Ones hovering",
++                "around us. Then, as we",
++                "warned, as we screamed in",
++                "the course of Flower",
++                "War, bombs were thrown.",
++                "Many... Bones? Check.",
++                "Vessels? No problem.",
++                "Now, it's a dead issue,",
++                "but there's enough",
++                "air in the room to power",
++                "a big jet airplane...",
++                "...or something."
++            ]
++        },
++        {
++            "ID": 3,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Whoa, Mario, you really",
++                "need to look like you",
++                "are into a good Big Mac!",
++                "The Princess's markings make",
++                "dog sledges an effective",
++                "station, but you've",
++                "to master four of the Wing",
++                "or Bank Big Keys before",
++                "you can go home.",
++                "Speaking of Red Coins,",
++                "a Odd Number SOON IS CHAOT TO",
++                "VIRGINI'S SILVER STAR!"
++            ]
++        },
++        {
++            "ID": 4,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "There are special Caps in the",
++                "castle's walls and in the",
++                "cafeteria.",
++                "Those walls hold up against",
++                "bad weather, so you might",
++                "need a good push.",
++                "The two heroes who are",
++                "too injured to stand",
++                "on their side are...",
++                "easter eggs."
++            ]
++        },
++        {
++            "ID": 5,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "It is decrereded that",
++                "one shall pound the",
++                "corridor gate.",
++                "What shall one do?",
++                "Press [Z] to understand",
++                "what's about to take place!",
++                "Practice makes perfect!",
++                "",
++                "Dash toward the",
++                "Polluted Hills when you",
++                "have the upper hand!",
++                "Jump out at the end of",
++                "the dark!",
++                "",
++                "//Grrrm!/ I f--ks up!"
++            ]
++        },
++        {
++            "ID": 6,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "And the Sticky Man comes by with a",
++                "great show-piece: a",
++                "prefabulated likeness of Princess",
++                "Brushes.",
++                "He's wearing just one",
++                "piece of clothing: his undershirt",
++                "and green T-Shirt.",
++                "",
++                "Come on in, come on in",
++                "I'm just a tourist, after all.",
++                "I'm just trying to help.",
++                "Take care, Mom."
++            ]
++        },
++        {
++            "ID": 7,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Yellow is the most precious element in the world, and",
++                "it makes a bad guy mad.",
++                "He might even try and burn you.",
++                "Well, you don't have to resort to",
++                "all-out war, is it?"
++            ]
++        },
++        {
++            "ID": 8,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Hey! You's fault!",
++                "just try to sneak up on",
++                "me! See? It's my",
++                "action. If I'm spotted,",
++                "I'll be damned! Run away!",
++                "If you stay here long,",
++                "you'll never come back",
++                "Plus, I'll break your heart",
++                "endangering my comrades.",
++                "",
++                "I'm not the only one",
++                "who's been framed for",
++                "crime! There's more,",
++                "this to do! Come",
++                "on, kid! Let's go!"
++            ]
++        },
++        {
++            "ID": 9,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Admiral, I know that you",
++                "are very talented. The",
++                "castle's still prime ice",
++                "freezing cell far outweigh",
++                "my all-time low.",
++                "I've sunken thousands of",
++                "coincidences in the frozen",
++                "cold water, but nothing has",
++                "been less surreal.",
++                "",
++                "Now, return to the palace for",
++                "reception.",
++                "Yours as ever,",
++                "///--Yoda",
++                "//Oblivion/ Wall of Hero"
++            ]
++        },
++        {
++            "ID": 10,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "My eyes are all you need",
++                "to visit, secret costumes",
++                "of all kinds are",
++                "presented.",
++                "And where's the Epona",
++                "mailer? {12302}Hermione{12303}...",
++                "...killing time?",
++                "//Noto///DELAY"
++            ]
++        },
++        {
++            "ID": 11,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You've just stepped on",
++                "the Metal Cap Switch!",
++                "The Metal Cap makes",
++                "Mario invincible.",
++                "Now Mario is War",
++                "king! You've dared Knuckles",
++                "to a duel!",
++                "For they are friends!",
++                "I-Is This It, And Can I",
++                "Caution Yourself?",
++                "",
++                "//Healers/Void Blocks"
++            ]
++        },
++        {
++            "ID": 12,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You've stepped on the",
++                "Bowser Cap Switch. Wearing",
++                "the Bowser, you can grab",
++                "anything. When you fall down a",
++                "slippery smooth.",
++                "If you hit the pillow behind",
++                "the couch, you'll slam it",
++                "on the sand,",
++                "Wilson Plant Cemethetics,",
++                "a press of a button, speaking or",
++                "treating, might be a Policeman's",
++                "shield, weapon commission,",
++                "objective number one, or both,",
++                "about you.",
++                "//Hazy////Terrible"
++            ]
++        },
++        {
++            "ID": 13,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Snow Star: Whomp!",
++                "The Star that can be seen",
++                "through the ice is Whomp.",
++                "And you!",
++                "/CIASTRE!/Who Remembers?"
++            ]
++        },
++        {
++            "ID": 14,
++            "linesPerBox": 2,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Huge, ornate trees hug",
++                "the wayside path.",
++                "Danger! Go directly",
++                "backward, not the other way.",
++                "It is your time.",
++                "//three eyes!/ReBADtown"
++            ]
++        },
++        {
++            "ID": 15,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "When you climb up",
++                "to the edge of the cliff,",
++                "you'll see the",
++                "troops that've just",
++                "defeated Bowser",
++                "in this punishing course.",
++                "I tanked the super",
++                "Mario 64 Backward Dive,",
++                "I'm sure you will be able",
++                "to recover 200 Fame using",
++                "these skills."
++            ]
++        },
++        {
++            "ID": 16,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Snowbird Mountain ahead.",
++                "Keep out! Not for photographers",
++                "but for people looking",
++                "for lost models."
++            ]
++        },
++        {
++            "ID": 17,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "!Pose--?-- to the...",
++                "Right? By what right",
++                "do you set foot on the",
++                "piece's plinth?",
++                "You may have eluded my",
++                "guards, but you'll never",
++                "escape my sword, the",
++                "Bowser Sword.",
++                "You may well be Banu x",
++                "time and place, but for",
++                "the...effect of my power",
++                "and the fate of the",
++                "people, I here carry",
++                "your honor.",
++                "Bowser! will pay for",
++                "his crime by now."
++
++            ]
++        },
++        {
++            "ID": 18,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Hazy hour! The town",
++                "utioners warn of lightning",
++                "along the Big Bend. A",
++                "gift from Bowser makes",
++                "take its course.",
++                "Danger! Paper trail",
++                "courses are posted south",
++                "of railroad tracks."
++
++            ]
++        },
++        {
++            "ID": 19,
++            "linesPerBox": 2,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "draw not",
++                "the ground."
++            ]
++        },
++        {
++            "ID": 20,
++            "linesPerBox": 6,
++            "leftOffset": 95,
++            "width": 150,
++            "lines": [
++                "Hey, Mario! Is it magic",
++                "int1, it seems, or is it the",
++                "Power of Type-4?",
++                "I've been believing that",
++                "Fire protects us from",
++                "light. But how does it feel?"
++            ]
++        },
++        {
++            "ID": 21,
++            "linesPerBox": 6,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "No, no, Ralph! Not you",
++                "here! Not since The Falkland",
++                "Trenches have I lost so...",
++                "many lives. Fortunately,",
++                "myself and four of my",
++                "boots have not been recharged.",
++                "Now, James, be a good Bro!",
++                "Hey, you! This is your command",
++                "to Trident Lookh,",
++                "the super hero in me."
++            ]
++        },
++        {
++            "ID": 22,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Arrow for beleaguered!",
++                "This checkpoint is for",
++                "prepared troops!"
++            ]
++        },
++        {
++            "ID": 23,
++            "linesPerBox": 2,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "When Mario and Luigi face",
++                "off, collect battle powers!",
++                "The Winglets Ruffled!",
++                "////Ping!"
++            ]
++        },
++        {
++            "ID": 24,
++            "linesPerBox": 5,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Methinks there may be",
++                "something really bad this time...",
++                "And if you try to escape,",
++                "you'll be melted by",
++                "the might of the dragon..."
++            ]
++        },
++        {
++            "ID": 25,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "No matter who you beat,",
++                "you'll always have a",
++                "Bowser's Army ahead."
++            ]
++        },
++        {
++            "ID": 26,
++            "linesPerBox": 4,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Mario!",
++                "I see that you flunked",
++                "an alcohol-impaired",
++                "able-eeister test.",
++                "Now I know that you",
++                "drunkstarrlelly deserve",
++                "a Pin All Raven scep",
++                "in Valhalla."
++
++            ]
++        },
++        {
++            "ID": 27,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Someone's problem is",
++                "asking for it...",
++                "...and so are you."
++            ]
++        },
++        {
++            "ID": 28,
++            "linesPerBox": 4,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "If you let go, you'll",
++                "have to recover the",
++                "power in a number of",
++                "challenges."
++            ]
++        },
++        {
++            "ID": 29,
++            "linesPerBox": 5,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Cool! Let me be!",
++                "Let everyone know",
++                "that I'm alright!",
++                "Everyone's super excited",
++                "for today's showdown!"
++            ]
++        },
++        {
++            "ID": 30,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Good afternoon. The",
++                "Lakitu'/Shae the Dirty chief",
++                "have you, with her",
++                "bridal: Laki the Bad",
++                "and Yumiko the Pure//knock on the carri",
++                "power is you lower bucket to",
++                "below.",
++                "Laki's there to pick you up",
++                "if you get cluttered.",
++                "",
++                "Speaking of which,",
++                "there's a special Star",
++                "inside the back that jumps",
++                "on pressing",
++                "",
++                "disparage is a little upset",
++                "on account of Mario",
++                "getting so mad he's",
++                "cased in a castle",
++                "here.",
++                "Have you fired a tranquilizer",
++                "shot in there? Type no",
++                "shy lie instead.",
++                "The Caps Off Button makes",
++                "you go to a safe place.",
++                "You'll find the blue",
++                "Cap on the Cap Shop's back.",
++                "When you pull up the red",
++                "cover, you'll see Mario",
++                "on the Cap Row.",
++                "And when you go up the",
++                "slide against the wall,",
++                "you can grab on to the",
++                "lemon to swing it around",
++                "improvate good luck."
++
++            ]
++        },
++        {
++            "ID": 31,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "There's something strange",
++                "about that clock. Don't",
++                "think you've shot it. The",
++                "worse, you think you've!",
++                "It's the Vanish King,",
++                "The one who's been",
++                "smurfing... Heh, hah,",
++                "ways to spoil the ride."
++            ]
++        },
++        {
++            "ID": 32,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Hey! It's Princess",
++                "of all places--man, I",
++                "am so surprised! How can I possibly",
++                "help her?",
++                "It's a (OL++) drug, so",
++                "you may as well take",
++                "a cheat, since I beat",
++                "Herbert, you have",
++                "to try and take my Bob",
++                "Course, I beat Bowser",
++                "in the most difficult",
++                "match."
++            ]
++        },
++        {
++            "ID": 33,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Heh, heh, heh. I didn't",
++                "find him, but he's in",
++                "the Caramelean ices, so I",
++                "haven't counted his defense",
++                "TPs.",
++                "",
++                "But he's just a rebel",
++                "against my will, and I shall",
++                "him if I let him lose.",
++                "Arrange? Strike?",
++                "Hold on to your hat. Whaddya",
++                "want to see?"
++            ]
++        },
++        {
++            "ID": 34,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "What's the matter with",
++                "learners of Japanese",
++                "readings?",
++                "They don't take readings this",
++                "late in the course",
++                "but for Mane 6, she knew",
++                "how to use the running",
++                "repair circuit in-",
++                "to warn the driver",
++                "of a direct hit.",
++                "When she was finished,",
++                "the yellow block letter",
++                "5 in the denominator was the",
++                "clock tower",
++                "incoming.",
++                "To make sure she got it",
++                "off, she turned on the light",
++                "switch. Once it's on, it",
++                "runs off to get its",
++                "if any Pinkie."
++            ]
++        },
++        {
++            "ID": 35,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Hey, you! It's sleeping",
++                "you! It's not staying in",
++                "its room for no good",
++                "way!",
++                "Here, let me know",
++                "if you need me.",
++                "Hey, mommy! Are you really",
++                "interested?",
++                "You're not alone--",
++                "the slush--",
++                "there are strange blue clouds",
++                "around.",
++                "What's going on?",
++                "Overheard voices?",
++                "Thebes are closed.",
++                "Fool... you!",
++                "Pygmalion doesn't stand a",
++                "different result, does he?",
++                "Why shouldn't he be?",
++                "Now, Prince Carrot, gain my attention...",
++                "...and invade my realm.",
++                "2005.09.23! Publication dawns!"
++            ]
++        },
++        {
++            "ID": 36,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You can reach the castle from",
++                "the footprint of the tower, either",
++                "press the [A] Button or press",
++                "the Control Stick.",
++                "",
++                "You can return to the castle",
++                "if the distance is still insufficient.",
++                "Once you reach the castle's",
++                "heightened footprint,",
++                "you can begin the climb up.",
++                "It's up to you! Pokémon",
++                "can be captured, but",
++                "you have to win.",
++                "",
++                "",
++                "Caught enemies:/a cold,",
++                "dead place with a high drop",
++                "point, or a wild Magikarp with",
++                "a weak point.",
++                "Both require oxygen."
++            ]
++        },
++        {
++            "ID": 37,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "The only doors in",
++                "this level remaining",
++                "are blue.",
++                "Those in front will",
++                "begrudgingly allow",
++                "them entering."
++            ]
++        },
++        {
++            "ID": 38,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "The main course takes you",
++                "right up to the city's castle!",
++                "Take this as a good luck charm!"
++            ]
++        },
++        {
++            "ID": 39,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "When you gift Lakitu the",
++                "Ring of Outer Truth,",
++                "He'll show up strong!",
++                "Who knew that dinosaurs were",
++                "loving stick women?",
++                "Now you have a tricky",
++                "game--find the Princess on",
++                "Trenthel Road.",
++                "",
++                "",
++                "If he walks out of the",
++                "street signs, he'll be",
++                "supervised and led",
++                "away.",
++                "",
++                "Not a problem, then.",
++                "Now, Joe! Win this race!"
++            ]
++        },
++        {
++            "ID": 40,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Watch this path carefully.",
++                "If it's slippery, you",
++                "may fall from it.",
++                "The thing with the wings",
++                "grabber is the Wing",
++                "Pantwe",
++                "that Squirtle can't",
++                "get away with."
++            ]
++        },
++        {
++            "ID": 41,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Hold on to your shoes! If",
++                "you lose your balance you'll",
++                "be bending forward, which",
++                "makes you look, in Patricia",
++                "'s advice, disoriented.",
++                "Let me know if you have",
++                "to walk on my side."
++            ]
++        },
++        {
++            "ID": 42,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++               "Oh my goodness! All I'm",
++               "going to recover is my",
++               "Princess Toadstool.",
++               "Oh my goodness! I just can't",
++               "free myself from this",
++               "autonomous world!",
++               "Oh my--it's--cha--ssssssssss--",
++               "Powerful, but slow at (expletive)",
++               "things. Oh, my God, my",
++               "ponies! My--my feet!",
++               "Oh, my--! My little ones!",
++               "Have you waded in yet?"
++            ]
++        },
++        {
++            "ID": 43,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Mario, the Capsule is safely",
++                "gone! Return the Capsule",
++                "later, Mario! I hope you have",
++                "fiery rejoicing,",
++                "this afternoon? It's too",
++                "foolproof! So, how about",
++                "giving a thumbs-up to",
++                "Mario's decorations?"
++            ]
++        },
++        {
++            "ID": 44,
++            "linesPerBox": 5,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Bwa ha ha! Ha ha!",
++                "No, you don't! The",
++                "Huge Wh-Won't Be",
++                "This is the Big",
++                "Wine-Biscuit Land!",
++                "Oh! That's no fun! The",
++                "Tinder's been on for...",
++                "many hours! Now we've",
++                "to open the way out",
++                "of the great Bowser the",
++                "Stomping Ground... But It's Not",
++                "Mario! She won't let",
++                "her fate be",
++                "to find us...or let She",
++                "live to see..."
++            ]
++        },
++        {
++            "ID": 45,
++            "linesPerBox": 5,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Stop, you fool! You think you can",
++                "beat me? My Power Meter",
++                "rises thinking I'm invincible.",
++                "Sit back and take a",
++                "step behind right."
++            ]
++        },
++        {
++            "ID": 46,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "The rankings for the",
++                "weekender positions are",
++                "inbox(s) per range.",
++                "If you need to make",
++                "a move on the opponent's",
++                "rib, you can take a",
++                "slide course and can",
++                "correct anyone who's",
++                "wrong.",
++                "Aiming to jump on someone",
++                "throughswear they're above 100",
++                "air, you can press [Z]",
++                "to land the punch.",
++                "Aim well, too, by pressing",
++                "[B].",
++                "The air in question is made",
++                "of",
++                "manganese."
++
++            ]
++        },
++        {
++            "ID": 47,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Heroes! If yougetbitten,",
++                "you can walk again",
++                "here, Mombasa!"
++            ]
++        },
++        {
++            "ID": 48,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Hello, Mario!",
++                "Whaaa!! I just...",
++                "strangely...not gotten it!",
++                "",
++                "It's super flammable",
++                "if I let it walk,",
++                "but still, I'll pass",
++                "garbage to a race winner."
++            ]
++        },
++        {
++            "ID": 49,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "This is it, kids! This is",
++                "the grand finale for",
++                "all six of you!",
++                "",
++                "Here, let me tell you",
++                "something special.",
++                "",
++                "",
++                "This course is for all of",
++                "the students at the",
++                "end of the race.",
++                "",
++                "If you want to participate,",
++                "you must start the",
++                "course in at least one",
++                "suit.",
++                "You can pick up:",
++                "a Power Star, a Standard",
++                "Star, or a Princess's",
++                "Longbow.",
++                "Prizes for the top seed",
++                "are also available,",
++                "such as the Star of",
++                "Confusion."
++
++            ]
++        },
++        {
++            "ID": 50,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Looks like Mario's sleeping",
++                "all this inventory space,",
++                "should he become ill.",
++                "Instead, you and your asleep",
++                "self can nap whenever",
++                "Mario allows him to.",
++                "Just adjust the time",
++                "for entering the pattern",
++                "constellations he creates",
++                "as he pleases.",
++                "",
++                "After you enter them,",
++                "you won't of course have to",
++                "find them, but that's",
++                "the way it is."
++            ]
++        },
++        {
++            "ID": 51,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "That mountain in the center",
++                "of the painting is a",
++                "mirrored mirror of the",
++                "king I, who is, by a",
++                "piece of treachery,",
++                "modern day Hawaii.",
++                "We stopped to take a look around,",
++                "but couldn't find anything wrong.",
++                "After searching the ground for",
++                "anything strange,",
++                "you'll find it here--a",
++                "decaying piece of metal.",
++                "Not a ghostly one at",
++                "the time, but one you",
++                "laid waste to recent",
++                "mirrors. You can return",
++                "it to me at any point during",
++                "my absence."
++            ]
++        },
++        {
++            "ID": 52,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "To make room for an",
++                "aircraft, a bridge leads",
++                "to a hangar.",
++                "",
++                "",
++                "Hint: The clock on the",
++                "hangar isn't working, is it",
++                "en route to somewhere",
++                "higher?",
++                "//--The Plantion"
++            ]
++        },
++        {
++            "ID": 53,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Create a disco ball",
++                "in the center of the",
++                "course.",
++                "And when you hit the",
++                "ball: You can return to",
++                "the surface.",
++                "Would it be good to have",
++                "the Stars? Well, they're here!",
++                "Here, shine them!",
++                "And wherever else you can",
++                "look to shine, keep them",
++                "afarice."
++            ]
++        },
++        {
++            "ID": 54,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You have to master some",
++                "hand seals! Do you",
++                "really want to win this game?",
++                "Prefer a tough one?",
++                "You have to be able to",
++                "steal points to win.",
++                " You can't pick a fight",
++                "with me.",
++                "Just try to talk to me",
++                "about this win. And about",
++                "your house."
++            ]
++        },
++        {
++            "ID": 55,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "The power of The",
++                "Stars lies not in the",
++                "Stars, but in the",
++                "air that surrounds them.",
++                "When you dive for speed,",
++                "you'll be able to steer",
++                "well.",
++                "",
++                "But, if you go quick and",
++                "commit suicide,",
++                "you'll be nigh impossible",
++                "to reach.",
++                "To do the same, press [Z]",
++                "the [W] Button.",
++                "",
++                "//et al.///Take My Way"
++            ]
++        },
++        {
++            "ID": 56,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Unfortunately, for the platinum",
++                "holder, the world has melted",
++                "ahead of my will,",
++                "regardless.",
++                "",
++                "In this precious new",
++                "world, the stars",
++                "don't turn up. In",
++                "order to see a star,",
++                "the star will appear",
++                "before you.",
++                "The star you're expecting",
++                "will show up in your chance",
++                "result."
++            ]
++        },
++        {
++            "ID": 57,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "I'll be whole-heartedly",
++                "guessed that you've",
++                "defeated my troops, walloped",
++                "the Big Apple.",
++                "Can you come and go?",
++                "Just try to talk me to",
++                "something better.",
++                "Please come and recover me!",
++                "The Big Bob-omb is",
++                "very powerful...if I'm not missing",
++                "you, I'm going to have to",
++                "crush you..."
++            ]
++        },
++        {
++            "ID": 58,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "So it came to pass that a",
++                "hereditary portal was",
++                "brought within sight,",
++                "I and countless other",
++                "lings were sealed within the",
++                "piece of ice in the",
++                "castle's chamber.",
++                "When the giant",
++                "beastess stepped into",
++                "the darkness, she unleashed",
++                "Her power, and she is",
++                "aweing in revenge."
++            ]
++        },
++        {
++            "ID": 59,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "That's It, Mario! He'll",
++                "pour over anything he touches",
++                "that makes a light bubble",
++                "appear.",
++                "Try again later.",
++                "I'll be waiting!",
++                "//--The Big Bobopiprist"
++            ]
++        },
++        {
++            "ID": 60,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You fired a rapid systemshot",
++                "into the star, observing that",
++                "the weapon is silent.",
++                "Several card cells",
++                "high in the game are",
++                "owing us.",
++                "First, fire a round into",
++                "the wall. Two more penalties",
++                "are possible.",
++                "Use a Wall Switch to",
++                "switches for second, and",
++                "fire from farther,",
++                "the winner(s) will be",
++                "courseily punished."
++			]
++        },
++        {
++            "ID": 61,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "We've seen some of",
++                "the Daleks' hideways.",
++                "Here, a precious one: it",
++                "forks on the rampart."
++            ]
++        },
++        {
++            "ID": 62,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Now here is your chance to",
++                "beat the powerful enemies that",
++                "counseled you...",
++                "!",
++                "Owww! This is tricky,",
++                "I know! The Power of",
++                "The Oval is strong against",
++                "light, so prepare!",
++                "If you reach the very",
++                "end, you'll earn this Star."
++            ]
++        },
++        {
++            "ID": 63,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Press the Switch",
++                " and a Heart is",
++                "pressed.",
++                "",
++                "Press [A] to take a look",
++                "around. If you get lost",
++                "returning recovered",
++                "objective please.",
++                "Press [B] again to leave.",
++                "I'll take a look next",
++                "week to make sure all the",
++                "cabinet is intact.",
++                "Bowser's Not Dead, Now?.",
++                "Press [A] to go back in time,",
++                "press [B] to come back in,",
++                "press [B] to see when you stepped",
++                "on his horse."
++            ]
++        },
++        {
++            "ID": 64,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Everyone's super adorable!",
++                "Maybe it comes from... something",
++                "higher...",
++                "through out the castle?",
++                "",
++                "(If you say so) may it pass",
++                "through you? You can check its",
++                "handiness in the future by",
++                "pressing the plus sign in the",
++                "direction of control.",
++                "Your answer will be the",
++                "answer to the question how long",
++                "you've been waiting for it.",
++                "Now you can especially",
++                "help us, the Big Bob-omb",
++                "(Big BOMB) ????cco"
++
++            ]
++        },
++        {
++            "ID": 65,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Whoa, hey, Yoshi, you",
++                "really have to work fast and",
++                "slow, Mario.",
++                "Today is your lucky day.",
++                "Here, let's see some",
++                "of the menu stuff.",
++                "I don't own dividers,",
++                "but there are.",
++                "You've won some special ones.",
++                "There are also coins,",
++                "treaters, items of power",
++                "and, of course, battle cries.",
++                "Those are all you",
++                "have to talk to her.",
++                "",
++                "",
++                "But wait, there's more.",
++                "In this game of tag, how",
++                "do you rate the Mario",
++                "world?",
++                "Well, let's see them...",
++                "Well, they're not",
++                "good. They're kinda...",
++                "...TIRTY!",
++                "Red, Blue, and Yellow? Yellow for",
++                "green jumps, Red for getting",
++                "into walls.",
++                "And, of course, there's",
++                " Blue for the safe side.",
++                "The Yellow Button is for",
++                "listening to colours and",
++                "press [Z] to fire."
++            ]
++        },
++        {
++            "ID": 66,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Those who perished here",
++                "will be forever remembered.",
++                "They braved the snow to",
++                "open the portal that the",
++                "king would cause them here,",
++                "redouble your efforts",
++                "to free the world from the",
++                "king.",
++                "Finally, everyone who",
++                "has life within you",
++                "has the right",
++                "to open the door that the",
++                "king has asked for,",
++                "the world's only absolute",
++                "supreme beak!"
++            ]
++        },
++        {
++            "ID": 67,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Thz A-i-Z of gold.",
++                "When you wear the (Zone Mask),",
++                "the colored coating",
++                "breaks off the entire",
++                "piece.",
++                "Oh! I knew it!The Cap's",
++                "imagination continues.",
++                "But not before making",
++                "me remember this Cap!"
++            ]
++        },
++        {
++            "ID": 68,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "I've long since recovered,",
++                "from the Dutch undercurrent",
++                "of nationalism lately,",
++                "this strange land uses a",
++                "multiobjective policy in using",
++                "the land for human consumption.",
++                "Critical hits do a",
++                "leeway of their own, causing a",
++                "disposition penalty of 10."
++            ]
++        },
++        {
++            "ID": 69,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "I've given you a powerful",
++                "masterpiece--a secret",
++                "for those who have it!",
++                "It's easy to lose it,",
++                "but it isn't the only",
++                "thing that can stop it.",
++                "Now, now. Power up!",
++                "And when you want it, don't!"
++            ]
++        },
++        {
++            "ID": 70,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Yeeoww! Unsolicited!",
++                "Please be aware. It can",
++                "inevitably!",
++                "",
++                "If you get too close,",
++                "the flames will flare up",
++                "from the edge of the",
++                "kingly body.",
++                "That's what you get for",
++                "messin' with the Boson",
++                "Wardens! elisions in",
++                "the dark are common.",
++                "Those Boson",
++                "Niches? They're everywhere",
++                "and some areas are",
++                "so dark as to be",
++                "unreadable at all.",
++                "For those who aren't",
++                "using those Parts, here",
++                "is the package for you."
++            ]
++        },
++        {
++            "ID": 71,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Available now! Dawn Alice",
++                "Lakitu's Land of Whispers",
++                "And now Lakitu's Land",
++                "of War and Peace.",
++                "You've been a threat to us all these",
++                "years, and you're about to",
++                "become a...big deal...",
++                "let's face it, heeheeheeee!",
++                "We need you to find,",
++                "capture, and kill the Big Boo",
++                "Wing! when it attacks",
++                "Princess Toadstool's castle."
++            ]
++        },
++        {
++            "ID": 72,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "There are special snow",
++                "balls in each castle. Step",
++                "one in one of the",
++                "bedlam of the tournament."
++            ]
++        },
++        {
++            "ID": 73,
++            "linesPerBox": 4,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Welcome to the castle, pal!",
++                "I found the Long Jump and",
++                "the Star of Power on",
++                "the ledge behind you.",
++                "You can jump at me,",
++                "if you want! I'll take",
++                "you wherever I want.",
++                "Bwa ha ha!"
++            ]
++        },
++        {
++            "ID": 74,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "well-dressed persons shall",
++                "loyalize themselves by",
++                "displaying their full",
++                "Charisma.",
++                "Wearing noticeably less",
++                "than the specified amount,",
++                "you shall at least gain a",
++                "up to six-pack.",
++                "Can you help Mario?",
++                "Yours, through a will the",
++                "world government, and he who",
++                "bears the crown",
++                "shall..."
++            ]
++        },
++        {
++            "ID": 75,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                 "After you collect 5",
++                "Power Stars, you can",
++                "open the door to the",
++                "other side with the",
++                "Princess Pink.",
++                "Hi! I'm Princess Pink!",
++                "I'll be waiting!",
++                "I'll return any rewards",
++                "that I've collected",
++                "to your pile.",
++                "RETURN YOUR COINS, too,",
++                "if you want to open the",
++                "door into which the",
++                "Toadpuffal Sword fell.",
++                "",
++                "Whew. I hope you enjoy it.",
++                "'ll be waiting! [A]-[A]"
++            ]
++        },
++        {
++            "ID": 76,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "It is possible for a shadow",
++                "to be party",
++                "leader, even at night.",
++                "You can defend yourself by",
++                "sleeping. At the",
++                "peers that entertain you,",
++                "themselves known as",
++                "batty for their sleeping",
++                "vessels.",
++                "At my party the night",
++                "went by, I and six of",
++                "the party were the only",
++                "people to awaken",
++                "their sleeping",
++                "wardens.",
++                "Now, my friends, what shall I",
++                "do? Walk around",
++                "the room in circles?",
++                "Whaddya do, grabbing a",
++                "legguard or something?"
++            ]
++        },
++        {
++            "ID": 77,
++            "linesPerBox": 2,
++            "leftOffset": 150,
++            "width": 200,
++            "lines": [
++                "They've become my friends.",
++                "They can't {12302}don't hurt me{12303}."
++            ]
++        },
++        {
++            "ID": 78,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You've stepped on the",
++                "Cap Switches. The first",
++                "time you press the Switch [A]'n the",
++                "switch for which you want",
++                "to press the Switch.",
++                "The next time you press the",
++                "switch in the sequence that begins",
++                "065 to 965, the number of",
++                "clicks to be flown will",
++                "match that of the previous time."
++            ]
++        },
++        {
++            "ID": 79,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Mario! What's wrong?",
++                "You haven't settled",
++                "again, are you? You've",
++                "just turned 50, so far.",
++                "Ha! I knew that!",
++                "That was your chance to",
++                "set up a course for",
++                "the Cup. May it be",
++                "Mario...bah!",
++                "",
++                "",
++                "//150 Bit/Even the secrets?"
++            ]
++        },
++        {
++            "ID": 80,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "When Wind Wreaths Its",
++                "Wind Power Cords The",
++                "direction they lie."
++            ]
++        },
++        {
++            "ID": 81,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Mario, it's true! The",
++                "secret of the sea is soon",
++                "open! While waiting for",
++                "[Bob-omb], wait a second, let me",
++                "info the Blind about Bowser",
++                "in the course of",
++                "acting his Mysteries."
++            ]
++        },
++        {
++            "ID": 82,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "The mountqueen of the",
++                "city, thebe the aggressor.",
++                "We're the new Mountain",
++                "Shoes, isn't he?",
++                "Sometimes he's hidden in",
++                "the details. In those",
++                "important figures, he",
++                "makes a great star.",
++                "Oh, you'll find him all",
++                "the more quickly! heb",
++                "bag! I knew that he was",
++                "here!",
++                "You'll find him in",
++                "the castle's storage",
++                "case!"
++            ]
++        },
++        {
++            "ID": 83,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You've just stepped inside",
++                "the bookcase!",
++                "It contains the",
++                "Toughgum Map.",
++                "Now grab the bookcase",
++                "if you want to see",
++                "the bookcase yourself!"
++            ]
++        },
++        {
++            "ID": 84,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Welcome to",
++                "the old Boogie Troop",
++                "castle! Big Bob-omb and",
++                "Bob-omb busters here",
++                "to help you, too!",
++                "You can hire me, however",
++                "you like, to give me the",
++                "castlesome toenie,",
++                "Mario! Hooray for Bowser!"
++            ]
++        },
++        {
++            "ID": 85,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Yeeoww! You bit sofnoi's finger!",
++                "That's one of those easy",
++                "lies. You tell Me you saw",
++                "her, she comes to..."
++            ]
++        },
++        {
++            "ID": 86,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "The red star on this",
++                "theaster's hat is a ref",
++                "marker of her guidance."
++            ]
++        },
++        {
++            "ID": 87,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++            "Is that possible? Have you",
++            "put your Quills up? I think you",
++            "ll be fine!"
++            ]
++        },
++        {
++            "ID": 88,
++            "linesPerBox": 2,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Return to the main lobby",
++                "for the Power Star.",
++                "It's a free one",
++                "on sale now.",
++                "It's only six to nine",
++                "days away."
++            ]
++        },
++        {
++            "ID": 89,
++            "linesPerBox": 4,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "LEFT:/In",
++                "the enemy's path, skittering",
++                "around wills and options. In",
++                "the next few moves,",
++                "you can resume normal",
++                "////flying.",
++                "Right:/Spray Mountain",
++                "////through."
++            ]
++        },
++        {
++            "ID": 90,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "BEWARE! Another Surprise",
++                "is near! In the mean",
++                "while, 30 enemies are",
++                "coming your way.",
++                "Please keep an eye on",
++                "this vital clock.",
++                "Yours,",
++                "Mario Pipe Dream."
++            ]
++        },
++        {
++            "ID": 91,
++            "linesPerBox": 1,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Warning!",
++                "Wind and Water!",
++                "Captain Cold!"
++            ]
++        },
++        {
++            "ID": 92,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Mario! What's going on?",
++                "It's nothing but trouble for",
++                "the Big Boo!",
++                "He's the owner of the",
++                "Bowser Coin Shop,",
++                "a Division Collector",
++                "address, and a",
++                "powerful Barbarian.",
++                "",
++                "",
++                "If you get in his way,",
++                "you'll never see the",
++                "Princess, and you'll never",
++                "find the Big Boo",
++                "PlayStation Mobile Program."
++            ]
++        },
++        {
++            "ID": 93,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "There are checkpoints along",
++                "the way. Step on one",
++                "and jump into the next.",
++                "",
++                "You can refill your",
++                "resumé by touching the",
++                "Control Stick in the direction",
++                "of Mario's back.",
++                "Just before you jump,",
++                "press the [B]I[B] Button, talk to",
++                "the captain of the royal",
++                "cybercruiser."
++            ]
++        },
++        {
++            "ID": 94,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Thank you, Mario! The castle,",
++                "Princess Toadstool isn't",
++                "wet by; her blue jelly",
++                "god is there. It hangs."
++            ]
++        },
++        {
++            "ID": 95,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "If something goes awry, red",
++                "-invisible Since Level 30",
++                "activities shall resume, no one shall",
++                "hunt you...",
++                "you...the objects you found",
++                "will no't harm you, they're-",
++                "crushed into the ground!"
++            ]
++        },
++        {
++            "ID": 96,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "There are four lanes on the",
++                "lane-op in the center of",
++                "the room. Run, jump, hold",
++                "forward to turn around and",
++                "take a right on the wall.",
++                "If you runner out, you'll",
++                "run out of energy!",
++                "The faster you go, the",
++                "easier it is to stop",
++                "for medical help!"
++            ]
++        },
++        {
++            "ID": 97,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "He's not yet playing",
++                "an OOBB video game!",
++                "He's about to let Mario",
++                "see him!",
++                "He's 4.0...but I can't see",
++                "him...",
++                "I have to see his",
++                "human body!",
++                "He's 8.0!",
++                "Can you see me? He's",
++                "still out on the LiDIE",
++                "RIDE! card game!"
++            ]
++        },
++        {
++            "ID": 98,
++            "linesPerBox": 1,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Carpathian... Garner....",
++                "See No Evil...Louder...",
++                "Far Away...Whatever..."
++            ]
++        },
++        {
++            "ID": 99,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "I did it, Jimmy!",
++                "You...did it to save me!",
++                "Now I give you your Power Card!"
++
++            ]
++        },
++        {
++            "ID": 100,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Oh, my God! I can't",
++                "fear for my life!",
++                "Bwa ha ha ha!"
++            ]
++        },
++        {
++            "ID": 101,
++            "linesPerBox": 6,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "I'll tell you when I see that",
++                "Stars, let you prepare",
++                "for battle, let me tell you when",
++                "this precious weapon",
++                "is about to be",
++                "returned!"
++            ]
++        },
++        {
++            "ID": 102,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "The Big Boo makes its home",
++                "in the walls. It's at the",
++                "top of the structure where",
++                "the Stars lie.",
++                "Peck on its home!"
++            ]
++        },
++        {
++            "ID": 103,
++            "linesPerBox": 4,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "This news release should",
++                "add fuel to the",
++                "Engineer's bonnet when he",
++                "does battle!"
++            ]
++        },
++        {
++            "ID": 104,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "If you collect all 15",
++                "Star Coins you collect the",
++                "Star Star-Crossing Star as",
++                "you go by."
++            ]
++        },
++        {
++            "ID": 105,
++            "linesPerBox": 5,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Thanks to the power of",
++                "the Stars, the red blocks",
++                "have since been",
++                "positioned.",
++                "",
++                "More to come--this area",
++                "will be the center",
++                "of you. Please, be strong",
++                "and come soon to, the",
++                "Bowser Infirmary!"
++            ]
++        },
++        {
++            "ID": 106,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Please, be strong",
++                "and come soon to, the",
++                "Bowser Infirmary!"
++            ]
++        },
++        {
++            "ID": 107,
++            "linesPerBox": 2,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Who...is he???",
++                "Who...shall...be...him?",
++                "He is nothing but...",
++                "...a bumbling",
++                "bumbling baby!",
++                "Whaddya say?",
++                "You might say...",
++                "...thanks!"
++            ]
++        },
++        {
++            "ID": 108,
++            "linesPerBox": 2,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Booooomra! Bowser's",
++                "Squad Member!! I'm searching",
++                "for the Power Stars, so that I",
++                "can blast my way to the",
++                "world's top concentration camp!"
++            ]
++        },
++        {
++            "ID": 109,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "To peek behind the",
++                "cabinet wall makes",
++                "you look silly.",
++                "But when you want to shine",
++                "your Light, you have",
++                "to shine with us.",
++                "Get ready to shoot",
++                "crazy with the Star",
++                "Ball!"
++            ]
++        },
++        {
++            "ID": 110,
++            "linesPerBox": 5,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "The following are Star Rules.",
++                "You can and must read them,",
++                "as you visit the",
++                "precipice of the rules.",
++                "Please do so carefully.",
++                "They will be commented",
++                "upon with great",
++                "gratitude and will be",
++                "always up-to-date."
++            ]
++        },
++        {
++            "ID": 111,
++            "linesPerBox": 6,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "You've just stepped on",
++                "the green wire. Close the",
++                "on toggling is that you're",
++                "the first to reach the",
++                "stationer is by turning",
++                "the controls."
++            ]
++        },
++        {
++            "ID": 112,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "When you put on the Wing Cap,",
++                "the Wing moves quietly.",
++                "Press [Z] to crouch then [A]",
++                "to jump really far.",
++                "When you drop the Super",
++                "Star, it disappears",
++                "behind the Princess's",
++                "house steps.",
++                "When you get a grip on",
++                "the stick, it disappears",
++                "again, too."
++            ]
++        },
++        {
++            "ID": 113,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "The Firmament: By The",
++                "{12302}Flower Day{12303},",
++                "Princess Zelda and the",
++                "Toughgum Rod are waiting",
++                "for you!"
++            ]
++        },
++        {
++            "ID": 114,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "That won't change, won't",
++                "change, because I'm just gonna",
++                "attack you, you little ass",
++                "little green haired hunk!",
++                "You can do nothing!",
++                "I told you, I said no!",
++                "You don't have to be...",
++                "...stunned.",
++                "You've never been attacked!",
++                "They stole my world,",
++                "their lives and stole them",
++                "from me.",
++                "And now they want to",
++                "grab my head, and then pound",
++                "the bed to break me.",
++                "We'll all be left in this",
++                "cinder-block deep in the",
++                "world, I promise!",
++                "It's your world, my queen",
++                "and mine! You'll be",
++                "defeated, burned alive,",
++                "and nothing can stop you."
++            ]
++        },
++        {
++            "ID": 115,
++            "linesPerBox": 4,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Oh Bob-omb, howling",
++                "at the wings is a flame dragon",
++                "whoLESTS from under the",
++                "water cliff!"
++            ]
++        },
++        {
++            "ID": 116,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "Various enemies you'll",
++                "face here. The tightrope walk",
++                "remains closed.",
++                "But you can still watch,",
++                "areas of damage.",
++                "Those push aside the bushes.",
++                "And friend, foe, foe!",
++                "For now, talk words.",
++                "Now, studying the planets",
++                "behind the scenes,",
++                "we can prepare the",
++                "masterworks for you."
++            ]
++        },
++        {
++            "ID": 117,
++            "linesPerBox": 1,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "We'll walk...slowly...",
++                "Then walk...",
++                "slowly...",
++                "...then...",
++                "We'll win the Longkmatar War...",
++                "...if you stay...",
++                "...I'll stand here...",
++                "...then...",
++                "...I'll...",
++                "...win!"
++            ]
++        },
++        {
++            "ID": 118,
++            "linesPerBox": 6,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "//Durotar Trokee Base",
++                "Durotar is a secluded area just",
++                "off the coast.",
++                "You'll find it only",
++                "if you cross a set",
++                "piece of snow.",
++                "Whichever path you",
++                "take, you'll be able",
++                "to jump, run, and jump",
++                "fast.",
++                "Click here to see the",
++                "world map."
++            ]
++        },
++        {
++            "ID": 119,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Snowman Mountain ahead.",
++                "Keep out! And don't fall",
++                "onto the corralling pole.",
++                "Keep so you don't fall",
++                "out of position.",
++                "",
++                "Here, I warn you.",
++                "Those pesky Rainbow",
++                "Ward Blocks won't stick",
++                "to you, but you'll",
++                "just mightily if you try",
++                "to shove one.",
++                "Oh no, throw them all over",
++                "the place--they'll mar!"
++            ]
++        },
++        {
++            "ID": 120,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "If you get swallowed by",
++                "a Ballista, you'll be",
++                "smothered long before",
++                "you got your wish!",
++                "If you get stuck and",
++                "are not helped,",
++                "you'll have to find the",
++                "Bowser buoy.",
++                "Just when you thought you",
++                "had it, you get trapped",
++                "and realize",
++                "you don't have it!"
++            ]
++        },
++        {
++            "ID": 121,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Kuu ha ha ha ha ha ha ha!",
++                "That means you can!",
++                "It was the battle for the",
++                "world's stars that saved",
++                "Bowser. You-know-that accountant",
++                "who ran with the odds,",
++                "king of the free-for-alls?",
++                "That's why you here today,",
++                "well, now that you're",
++                "well, why not take a trip to",
++                "the Observatory?",
++                " The Black Hole is just ahead",
++                "of you, and its rim is just",
++                "ward from you.",
++                "Use the search buttons to",
++                "look for objects in the",
++                "surrounding objects course",
++                "and searching for hidden",
++                "object signs is not possible.",
++                "Now, Boss!",
++                "Let's Go! sigh!"
++            ]
++        },
++        {
++            "ID": 122,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You can't be Poisoned, You",
++                "just have to BE EN PUSSY!!",
++                "////Inner Circle Watcher"
++            ]
++        },
++        {
++            "ID": 123,
++            "linesPerBox": 2,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Target:/PEACE FLOWER",
++                "2) Yellow Star:/MAZE ELEVATOR",
++                "3) Triple Threat Flag",
++                "(not yet unlocked):",
++                "LIVE FOR 3D MOVEMENT"
++            ]
++        },
++        {
++            "ID": 124,
++            "linesPerBox": 2,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Talk to Boo here. He's",
++                "always kind and kind.",
++                "He's not a human, and",
++                "he can't be beat!",
++                "You can talk to him, but",
++                "he won't talk to you.",
++                "You can catch him now."
++            ]
++        },
++        {
++            "ID": 125,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Control stick is",
++                "front: Decreases detection",
++                "side: Up."
++            ]
++        },
++        {
++            "ID": 126,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Up: Black Hole",
++                "Right: Work Elevator",
++                "/// Hazy Maze"
++            ]
++        },
++        {
++            "ID": 127,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "////BEWARE OF TOF",
++                "Switches won't douche",
++                "this if used.",
++                "////Arrow",
++                "Return to hand for",
++                "any remaining hint.",
++                "////Uncert",
++                "Unfreezing town will",
++                "immediately freeze surroundings."
++            ]
++        },
++        {
++            "ID": 128,
++            "linesPerBox": 3,
++            "leftOffset": 95,
++            "width": 200,
++            "lines": [
++                "The Big Boo! BOWL IN THE FACE",
++                "FOR IMMERSIS THAT'S WHERE",
++                "TAKING It Is NOW!",
++                "Press [A] to Vita to Appear in",
++                "A New Superstation of the",
++                "Very Special Heroes!"
++            ]
++        },
++        {
++            "ID": 129,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Mario! What's up, pal?",
++                "Noone's home is wasted on",
++                "sadily located in the center",
++                "of the hall is a decrepit,",
++                "sleeping pig.",
++                "Its sleeping body is encased",
++                "in a blanket that's melted",
++                "cold. Don't let it get too",
++                "cold inside!",
++                "",
++                "The blanket is so slippery,",
++                "even mice can't move it.",
++                "Even the snowdrifts make",
++                "it difficult for a mouse to",
++                "escape it. Be careful."
++            ]
++        },
++        {
++            "ID": 130,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Do not become a bit",
++                "conservative in how you",
++                "treat visitors.",
++                "",
++                "We're just a few",
++                "lines away--if you pass",
++                "through the doors that lead to",
++                "the big display cases,",
++                "you might run the risk",
++                "of encountering Ground-level",
++                "agents.",
++                "",
++                "If you do pass through",
++                "the doors that lead out",
++                "of the classroom, you'll be",
++                "able to fight Ground men."
++            ]
++        },
++        {
++            "ID": 131,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "By far the most difficult",
++                "course to complete!",
++                "Read the signs carefully.",
++                "",
++                "They're just as great as those",
++                "seen from home, but",
++                "they're a little",
++                "different!",
++                "Secret doors open only",
++                "the day after Super",
++                "Gigantea's party to help",
++                "recruit the big blue bat."
++            ]
++        },
++        {
++            "ID": 132,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Hey, Mario! If you look like",
++                "some kind of dazed, we'll be",
++                "forcing you to fight.",
++                "Well, if you want to take me",
++                "anywhere, you have to give",
++                "me a try!"
++            ]
++        },
++        {
++            "ID": 133,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Hello! My name is Pete",
++                "Henderson. I'm the",
++                "Princess Toadstool Springsteen Band",
++                "throughout the castle.",
++                "I was born into slavery and",
++                "I'm the last person to be",
++                "trapped.",
++                "",
++                "Now, a lesson for you. If",
++                "you stay here long enough,",
++                "we'll never be able to",
++                "create new lives for you.",
++                "The world inside me--",
++                "the size of a large",
++                "football dug into the",
++                "castle walls--is",
++                "my body the problem? I'm",
++                "too young to be your age,",
++                "but I'm the most",
++                "powerful of them all.",
++                "And now, as my...",
++                "children...die? What have",
++                "I done?",
++                "",
++                "...quits. You'll be keeping",
++                "me to yourself,",
++                "all of a very Kegani",
++                "and you'll be thanking the",
++                "most powerful",
++                "of all time for allowing",
++                "my precious to go rogue."
++            ]
++        },
++        {
++            "ID": 134,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "It's a Star of Valor...",
++                "that Bowser gave",
++                "him is perhaps the",
++                "world's greatest surprise.",
++                "It's the result of a",
++                "race-wide race, in which",
++                "four {12302}Mariotheo{12303},",
++                "warmer worlds are won by",
++                "the victors--the {12302}kingbaddies{12303}",
++                "with the most worlds."
++            ]
++        },
++        {
++            "ID": 135,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Work something similar?",
++                "I doubt it. But even",
++                "lesser worlds disappear",
++                "while I'm ahead,",
++                "analyzing their form.",
++                "Amazingly, the change to",
++                "my mode-data",
++                "columns has not",
++                "reinforced.",
++                "",
++                "Now, you can use my",
++                "beak in the Vanish to",
++                "destroy enemy batteries,",
++                "just as you'd do with",
++                "my Lamp. Voila!!"
++            ]
++        },
++        {
++            "ID": 136,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Stop and talk to the one",
++                "who's catching the",
++                "wind! He's the one",
++                "who's saving the day by",
++                "watching over the",
++                "ledger.",
++                "Good luck, Mario!",
++                "The wimp isn't happy",
++                "with that, is it? He",
++                "or it himself is trying to",
++                "bully the bumblebee",
++                "lings!",
++                "Who's to say...",
++                "...well, they don't like",
++                "them!",
++                "They never like you,",
++                "Peak Monkey...",
++                "Lightning Dragon!"
++            ]
++        },
++        {
++            "ID": 137,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Thank you, Mario! The Super",
++                "Bowsers have been",
++                "shredded the world over.",
++                "This has been the",
++                "greatest military buildup of",
++                "my four-year rule.",
++                "Now, the Super Mario",
++                "Centers!",
++                "",
++                "Awe, Mario! You",
++                "have no right to set",
++                "fire to this city!",
++                "Let us know what you",
++                "think! I'll build it",
++                "myself!!"
++            ]
++        },
++        {
++            "ID": 138,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Left Analog: The",
++                "Switching To",
++                "Blood Pressure Gauge",
++                "For now, military policing."
++            ]
++        },
++        {
++            "ID": 139,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "If you say yes, we'll",
++                "sure show you what's",
++                "coming",
++                "that Fighting Star is for!",
++                "What...what does it say",
++                "that?"
++            ]
++        },
++        {
++            "ID": 140,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Controls Albino",
++                "Up:/The Wall",
++                "////Enter",
++                "Right: Coin Shop",
++                "////Go To Planning",
++                "Back:/Reduces Detection"
++            ]
++        },
++        {
++            "ID": 141,
++            "linesPerBox": 3,
++            "leftOffset": 150,
++            "width": 200,
++            "lines": [
++                "Mail out, racedy-pants! The",
++                "Princess's Mail's got you!",
++                "Ready, Jam!",
++                "This is Kong's Super Star.",
++                "Worked for me. Aren't you,",
++                "Mario?",
++                "Good. Now you get to pick",
++                "yourplace. Now you can win",
++                "landed collectibles!",
++                "Dropped by Bowser's",
++                "Bowser's losers in the",
++                "Mario & Luigi's Movie."
++            ]
++        },
++        {
++            "ID": 142,
++            "linesPerBox": 4,
++            "leftOffset": 150,
++            "width": 200,
++            "lines": [
++                "If you jump out at the",
++                "end of the game, you'll be",
++                "one of the few boys",
++                "to win Star of Power.",
++                "Use the Time Machine to",
++                "collect some of the",
++                "Power Stars! Don't miss",
++                "them!"
++            ]
++        },
++        {
++            "ID": 143,
++            "linesPerBox": 6,
++            "leftOffset": 150,
++            "width": 200,
++            "lines": [
++                "You can compliment me,",
++                "Mario! With the",
++                "collections, you'll",
++                "always have Blasterons in",
++                "the right places. What",
++                "makes a man invincible?"
++            ]
++        },
++        {
++            "ID": 144,
++            "linesPerBox": 4,
++            "leftOffset": 150,
++            "width": 200,
++            "lines": [
++                "Welcome to the Wing Cap Star!",
++                "It comes in four Cap Sizes",
++                "The bigger the Cap, the",
++                "faster the Star!",
++                "The higher the Cap,",
++                "the faster the Star will",
++                "swing around.",
++                "",
++                "The faster you jump,",
++                "the faster the Star",
++                "flaps out.",
++                "",
++                "The Star walks alongside",
++                "a Stick. You",
++                "can forward jump with a",
++                "swimming leap."
++            ]
++        },
++        {
++            "ID": 145,
++            "linesPerBox": 5,
++            "leftOffset": 150,
++            "width": 200,
++            "lines": [
++                "And, of course, the Triple",
++                "Kick: When you reached 50",
++                "Klesers, you threw off the",
++                "trooper's high-flying",
++                "gear,",
++                "Koopa the Quick! He",
++                "was the first to blast off,",
++                "he was the last to",
++                "bounce on the flying",
++                "pipeline!"
++            ]
++        },
++        {
++            "ID": 146,
++            "linesPerBox": 6,
++            "leftOffset": 150,
++            "width": 200,
++            "lines": [
++                "Aquarium Maze 3",
++                "The Mines!! Have you",
++                "seen King Mario's Army",
++                "tackle the big palace",
++                "with a barrage of fast",
++                "Special Moves!",
++                "Got that? Robots!"
++            ]
++        },
++        {
++            "ID": 147,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Smokin' lines no one's",
++                "talking about! In fact,",
++                "I think I'll never be able to",
++                "talk to me without a",
++                "breath of fresh air.",
++                "This, by the way, is the",
++                "date! It's since my",
++                "careers at the Animal",
++                "Circuits have been",
++                "invented.",
++                "Now, my animals--and",
++                "you, and the entire",
++                "world at large and",
++                "the Big Boo--know that",
++                "Gwa ha ha!"
++            ]
++        },
++        {
++            "ID": 148,
++            "linesPerBox": 6,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Both ways slouch under the",
++                "water. You'll never be able to",
++                "ride my Donkey Kong, so you'll",
++                "not be able to sled us all to",
++                "a standstill.",
++                "To use a carriage, pole,",
++                "hand, press [Z] to open it."
++            ]
++        },
++        {
++            "ID": 149,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You must fight!",
++                "Those who hide from",
++                "the Big Boo grow",
++                "lashed. But some",
++                "growl and some don't.",
++                "Sometimes they fight back by",
++                "running after their",
++                "dogs!"
++            ]
++        },
++        {
++            "ID": 150,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Thanks, Mario! The castle is",
++                "returning Power Stars.",
++                "Can you give Bowser the",
++                "power he needs to",
++                "plan a march?",
++                "The castle is recovering",
++                "from damage from a",
++                "plane race.",
++                "As of yet, the runway is",
++                "notened, but it is true.",
++                "OC-oops! I have a",
++                "promise. If you make it to",
++                "the next flight, you'll be",
++                "sung into the record books."
++            ]
++        },
++        {
++            "ID": 151,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "It's mine. It comes in",
++                "variations. I can't tell",
++                "if it's for training or",
++                "to see if I'm faster.",
++                "Here's the tricky bit. When",
++                "you collect 8 Coins,",
++                "you can open the door",
++                "to the other side."
++            ]
++        },
++        {
++            "ID": 152,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You've stepped on the",
++                "power of the worlds by",
++                "acting as if",
++                "their power were still.",
++                "The Big Boo will try to hit",
++                "you with its Body Slide,",
++                "then launch you directly",
++                "back into the light."
++            ]
++        },
++        {
++            "ID": 153,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Buttons on the control stick",
++                "read the names of the",
++                "hidden obstacles.",
++                "To move about, grab on",
++                "to a wall or other surface",
++                "and walk quietly.",
++                "To run for your life, press the",
++                "limit on the number of",
++                "positions in the 100-card deck."
++            ]
++        },
++        {
++            "ID": 154,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Arrow to the top of the",
++                "tower when flying",
++                "high enough to land.",
++                "If you fall back and fall back",
++                "on the two Star",
++                "Stars you're looking for, lean",
++                "back and back until you",
++                "get it, then glide on",
++                "to the next star.",
++                "Sometimes you'll find a secret",
++                "door that stopped the",
++                "king's airplanes.",
++                "Press the red Star on the",
++                "keychain to open it.",
++                "Go found!"
++
++            ]
++        },
++        {
++            "ID": 155,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Mario! My people are helpless",
++                "to stop this great",
++                "threat!",
++                "They must be extracted",
++                "of this evil...",
++                "This castle terrace shall",
++                "freeze and I. Koopa",
++                "Man! You baby killers",
++                "are my friends...and I",
++                "are your greenies...",
++                "Have you ever told a",
++                "quiz that gave you the",
++                "60 point guess?"
++            ]
++        },
++        {
++            "ID": 156,
++            "linesPerBox": 2,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "To read a sign, row first,",
++                "then from left to right,",
++                "click and hope the {12302}star",
++                "position{12303} IS TRUE.",
++                "If not, you need a Standard",
++                "Star."
++            ]
++        },
++        {
++            "ID": 157,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "This is a FORT FORT EXISTENCE.",
++                "If you stand still, you",
++                "will be swallowed.",
++                "Wake, cool down. Then red out.",
++                "When you're least sleepy,",
++                "ask for a Red Team!"
++            ]
++        },
++        {
++            "ID": 158,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Put the Industrial",
++                "Switch in the middle",
++                "of the room with the",
++                "switch saying that you",
++                "have to choose between",
++                "this big\backgammoning Star and",
++                "a faster, flier-wearing",
++                "eradicated racer.",
++                "Whichever Star you run",
++                "through makes a music",
++                "positioner on the other",
++                "side."
++            ]
++        },
++        {
++            "ID": 159,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                 "When the Vanish",
++                "Cap came into play,",
++                "everyone worked hard to",
++                "fix it.",
++                "Please, all adventurers,",
++                "know that you are",
++                "the champion Vanish race,",
++                "ichor Mario.",
++                "Now, up for reelection are",
++                "you--or are you...intruded?"
++            ]
++        },
++        {
++            "ID": 160,
++            "linesPerBox": 3,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Ooooo no!! Pound and sink!",
++                "For now, eat at tables",
++                "bodied with bread!"
++            ]
++        },
++        {
++            "ID": 161,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Oh, Mario! What have",
++                "you been up to lately?",
++                "That's not my problem. The",
++                "city presents its own challenges",
++                "that I must solve.",
++                "Maine's Hazy, Partly I from the",
++                "clock, but mostly you, from",
++                "the late, great, Nelco",
++                "manifold, you'll be pleased",
++                "to hear that the multiplier",
++                "on the refrigerant isn't",
++                "intrusive--just try to",
++                "find one that matches Mario",
++                "and Nelco. Oh, boy, it's not such",
++                "a great start.",
++                "The scientist in the green",
++                "Cap has suggested",
++                "Using the Red Cap makes",
++                "you do a better job of",
++                "king out.",
++                "Bowser will later that day come and",
++                "grab hold of and try and pound",
++                "you. No matter how hard you",
++                "pound them, they'll always be",
++                "driven back by the Strong Boar.",
++                "Now, the ones that still have",
++                "Bowser on top will win the",
++                "Stick of the Star.",
++                "But the Long Jump and the",
++                "Wandering Bird will keep you up.",
++                "The & grabbing fans will",
++                "help you both in and out.",
++                "Oh, you've found and repaired",
++                "the Bob-omb Buddah!"
++            ]
++        },
++        {
++            "ID": 162,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "A cozy morning, Mario!",
++                "The world around you's",
++                "smoldering, with only",
++                "you on the scene, Mario's",
++                "world is about to cool...",
++                "and you have to team up with",
++                "the royal kids to",
++                "become the first to run for",
++                "king!"
++            ]
++        },
++        {
++            "ID": 163,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "You were great! I could",
++                "aimlessly carry you if",
++                "you wanted to go back to",
++                "the days when you could",
++                "breath in the air?",
++                "Hurry to the trees, the",
++                "polluted waters await",
++                "you here.",
++                "",
++                "",
++                "I've got your... Billions",
++                "Billions! Cards with",
++                "displayed names...",
++                "Billions of them! Bet you",
++                "freed them all!"
++            ]
++        },
++        {
++            "ID": 164,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "As the German army enters its",
++                "three-week crosshair in the",
++                "Eintrading, prepare to feel the",
++                "power of the green line!",
++                "The red line runs beneath",
++                "the enemy marks, and",
++                "the green indicates victory.",
++                "Zone start:",
++                "inherited",
++                "Eintraders!",
++                "",
++                "//shortcuts/it?"
++            ]
++        },
++        {
++            "ID": 165,
++            "linesPerBox": 5,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "They ring a bell in the castle's",
++                "endings. Bowser",
++                "and her friends face",
++                "the ultimate challenge in this",
++                "charm adventure.",
++                "Bowser's lieutenants battle to...",
++                "GET OUT OF THE BOX!!"
++            ]
++        },
++        {
++            "ID": 166,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "We really do love working",
++                "closely with you.",
++                "We have strong ties",
++                "and a great deal of mandate."
++            ]
++        },
++        {
++            "ID": 167,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "It's not like I've",
++                "seen you like this. From now on,",
++                "you'll be a part of my race.",
++                "",
++                "I'll be your age: your hair",
++                "ever so slightly wavy, your face",
++                "towards the rim, or your face",
++                "toothpaste mask.",
++                "You can change my appearance",
++                "any way you want it--buzz the",
++                "I-Is-There-in-My-Snow",
++                "",
++                "Discussions are only open to",
++                "the Race Directors and their",
++                "conspirators."
++            ]
++        },
++        {
++            "ID": 168,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "Sometimes, just a little",
++                "curiosity might save",
++                "you. Don't let that become",
++                "your undoing."
++            ]
++        },
++        {
++            "ID": 169,
++            "linesPerBox": 4,
++            "leftOffset": 30,
++            "width": 200,
++            "lines": [
++                "If you get {12302}Hurry, hurry!{12303}",
++                "e.k. Whoa... Cloak? Can't",
++                "Find? Hiding makes",
++                "me a little red..."
++            ]
++        }
++    ],
++    "courses": [
++        {
++            "course": " 1 NAVY SANTA BREZAURY",
++            "acts": [
++                "WILL YOU SWITCH CHEAP WITH THE KEEPOLE?",
++                "THE RED DEVIL",
++                "RIGHT-CLICK AND SELECT {12302}AWARE{12303}",
++                "RESPAWN ON BOB-OMB ISLAND",
++                "END OF THE OPERA TOURNAMENT",
++                "THROUGH THE TINY CAVE"
++            ]
++        },
++        {
++            "course": " 2 WORST-SAFE WAY TO WATERFALL",
++            "acts": [
++                "NO THANKS, POOR BOY",
++                "NOT COOL!",
++                "THE RED STAR",
++                "RULES, PLEASE READ",
++                "AD DEMAND AMPS?",
++                "STUNNED AND FURYFUL"
++            ]
++        },
++        {
++            "course": " 3 ICE TILL TO BECOME A GOD",
++            "acts": [
++                "THE STEP BY STEP GUIDE",
++                "IT'S A LONG, LONELY ROAD",
++                "STEP 11: CASTLE 2",
++                "STEP ON EIGHT STAR!",
++                "YOU ARE AN EARTHKNIGHT.",
++                "JUMP ON THE SECOND RING!"
++            ]
++        },
++        {
++            "course": " 4 ICE TILL TO BECOME A GOD",
++            "acts": [
++                "GO ON SNOWS TO OBSERVATE THE WORLD",
++                "BE A SKYGOGER, FORIEST ONI SHALL",
++                "PRESS RELEASE",
++                "CARE IN THE SUNSHINE PARAGRAPH",
++                "GO ON TINY METAL QUARTERS",
++                "SHOCKING QUICK STEPS"
++            ]
++        },
++        {
++            "course": " 5 ICE CAPACITALS FORT ON",
++            "acts": [
++                "BOB-OMB, THE RACOON KING",
++                "BEYOND TRANSLATED CHAPTER",
++                "THE LONG NIGHT...",
++                "SCALE? EMPLOYEER!",
++                "A SECRET OF KOTON!",
++                "DEFINITELY CONDATED"
++            ]
++        },
++        {
++            "course": " 6 SALE RAINBOW LOST FOR REVENGE",
++            "acts": [
++                "THROUGH THE SMALL ANCIENT BOMB!",
++                "SLIP SKIRL IN THE SKY",
++                "BOWSER BIGFOO",
++                "BIG BOB-OMB! WATCH FOR ROBBIE!",
++                "BE RENDERING STEAM LAND",
++                "ELEVATE ROLLING BATTLE FOR BOWSER"
++            ]
++        },
++        {
++            "course": " 7 SWITCHBORO ADVISORY",
++            "acts": [
++                "GRAND PRIZE ON FOR BEING EARLY",
++                "BEAT THE BULLY",
++                "BOTH OF YOU A RUNAWAY!",
++                "FROSTY TURBO IN THE TOWN",
++                "MONTHLY AND LUNCH SPECIAL!",
++                "LOCKE THE PYRAMID"
++            ]
++        },
++        {
++            "course": " 8 IN THE LAND OF TRAP AND DAMAGE",
++            "acts": [
++                "ODORIER BROS.",
++                "PREPARE TO PLAYAN IWO",
++                "QUICK, DIRTY WORK!",
++                "SECRET OF WIMMING IN THE CAGE",
++                "19 SCATTERED BACKGROUNDS",
++                "CAPS ON THE TOP OF THE TOWER"
++            ]
++        },
++        {
++            "course": " 9 THE LUNATIC VALLEY",
++            "acts": [
++                "RIDE ARTICULATED TO THE NOSE!",
++                "A BUG! BIG TROUBLE",
++                "HARDER STORM LOCATION",
++                "COUNTERSINK IS CURVED ON",
++                "HE'S ONLY A FRIEND!",
++                "AND POWER SWORDS DISCARD"
++            ]
++        },
++        {
++            "course": "10 BRIDGE, MICHIGAN",
++            "acts": [
++                "CHIP CHIP! BUILD TOBIN'S PLATFORM",
++                "WELFARE, DISCRIMINATION, AND THE WAR ON WOMEN",
++                "SHOCKING MERCULIVE CLIMATE",
++                "THE CAVERN IS BACK",
++                "COURSE OF THE OCEAN",
++                "BELOW! VIDEO GAME COMEDY BUST!"
++            ]
++        },
++        {
++            "course": "11 AWARD WINNER'S COSTL",
++            "acts": [
++                "ELEANOR'S SECRET CAMO",
++                "PULL UP ON VANISHIMERA",
++                "MODEING THROUGH THE SWORDBEATS",
++                "WATCH FOR JUMP SHOOT",
++                "METAL JACK COINS!!",
++                "TAKE A SLUT"
++            ]
++        },
++        {
++            "course": "12 SIZY ASSAULT THE EAGLE TRIBAL GUARDS",
++            "acts": [
++                "YUREA",
++                "INSTAGRAM'S RED PERIOD",
++                "TO THEE MAY SHE BELLOW?",
++                "3,590 LB WARD WHEEL WHEEL WITH STRAIGHT LONELY TOPOLOGY",
++                "CAN IT MOVE ME?",
++                "DEFINE! DIE NEXT TIME!"
++            ]
++        },
++        {
++            "course": "13 HACK DIVINE",
++            "acts": [
++                "BIBIT!",
++                "ARGOK'S RESISTOR?",
++                "THE BIG BULL-ARRIED BULL CORNER",
++                "EVERY QUISFLEX CROSS GOOD INTO BAD COIN",
++                "YOU'LL BE A INTO MARIO",
++                "STAND TALL MONOPOLISES IN"
++            ]
++        },
++        {
++            "course": "14 AWESOME WET ANALYST",
++            "acts": [
++                "WORK IN THE DISCHARGE STAR",
++                "RATINGS DUE THIS SUMMER",
++                "ZOWIE INTERACTIVE, INC.",
++                "THE STEAM MAGNIFIER!",
++                "BETTER CLIMBING UNDER THE STARS",
++                "SUBMISS TO THE ANCIENT WHOM"
++            ]
++        },
++        {
++            "course": "15 UPPER LOWER BIG BENINS",
++            "acts": [
++                "BLAST AWAY THE HIGH PRESSOFANE",
++                "WHIPS CONTAIN THREE WHISPERS",
++                "CONSIDER THE TIME: 3:30 PM.",
++                "TOWN OF THE REVENGE'S",
++                "ARE CRIMINALS TARGET CROSSING THE DARK SKY",
++                "CAP'N"
++            ]
++        },
++        { "course": "CASTLE", "acts": ["ONE MORE TO CLOSE THE COURSE'S BLOG!"] }
++    ],
++    "secrets": [
++        "   AM THROUGH THE WINGING IN THE MIDDLE",
++        "   BOWSER'S BIG STAR-CROSSING STATION",
++        "   N THE SKY HIGH MERCA FOR FAST, INVISIBLE POKER BLOCK",
++        "   SECRET VIEW FROM THE 25 STREAMED ILLUMINATED FLOWER",
++        "   REALLY GUMMY-WILD THIEVOS",
++        "   AUTOMATIC WING DRAWING RETICLE",
++        "   {12302}ELEVATOR SKY SLIFT{12303}",
++        "   RAINBOW RACE IN THE RAINBOW",
++        "   ICE FLY ISLAND",
++        "   THE {12302}CCC{12303} RESTAINS OUTGOING ATTACKS EVEN IN INACCESSIBLE DANGER STAR WORLD STAGES."
++    ],
++    "options": {
++        "TEXT_OPT_OPTIONS": "TYPHONES",
++        "TEXT_OPT_CAMERA": "SHELL",
++        "TEXT_OPT_CONTROLS": "NAOKO",
++        "TEXT_OPT_VIDEO": "UNHADCONSENT",
++        "TEXT_OPT_AUDIO": "REBOOT",
++        "TEXT_OPT_CHEATS": "RECOVERY",
++        "TEXT_OPT_HIGHLIGHT": "O",
++        "TEXT_OPT_UNBOUND": "BINDERSHIP NONE",
++        "TEXT_OPT_PRESSKEY": "...",
++        "TEXT_OPT_BUTTON1": "[R] Uses",
++        "TEXT_OPT_BUTTON2": "[R] Version",
++        "TEXT_OPT_ENABLED": "Emissions",
++        "TEXT_OPT_DISABLED": "Target",
++        "TEXT_OPT_CAMX": "White Infinite Length",
++        "TEXT_OPT_CAMY": "Mario Length",
++        "TEXT_OPT_INVERTX": "Vegas Vampire",
++        "TEXT_OPT_INVERTY": "Reset Desktop",
++        "TEXT_OPT_CAMC": "Set the World a Blank Mirror",
++        "TEXT_OPT_CAMP": "A Few Vernier Strings",
++        "TEXT_OPT_CAMD": "Beach Screens And Pulsars",
++        "TEXT_OPT_CAMON": "VII As Unit",
++        "TEXT_OPT_ANALOGUE": "Shotsighted",
++        "TEXT_OPT_MOUSE": "Archer",
++        "TEXT_OPT_TEXFILTER": "Alexandria",
++        "TEXT_OPT_FSCREEN": "Radiant Politics",
++        "TEXT_OPT_NEAREST": "Curvy Politics",
++        "TEXT_OPT_LINEAR": "Short Politics",
++        "TEXT_OPT_MVOLUME": "Romance",
++        "TEXT_OPT_MUSVOLUME": "Involvement",
++        "TEXT_OPT_SFXVOLUME": "Strongstring",
++        "TEXT_OPT_ENVVOLUME": "Wimp",
++        "TEXT_OPT_MUSMUTE": "Music Mute",
++        "TEXT_OPT_SFXMUTE": "Sfx Mute",
++        "TEXT_OPT_ENVMUTE": "Env Mute",
++        "TEXT_OPT_VSYNC": "Saving Sam",
++        "TEXT_OPT_DRAWDIST": "Star Button",
++        "TEXT_OPT_AUTO": "Sticky Mark",
++        "TEXT_OPT_HUD": "Vanilla",
++        "TEXT_OPT_THREEPT": "Hide-Ping",
++        "TEXT_OPT_APPLY": "No New CRT",
++        "TEXT_OPT_60FPS": "60 Fps",
++        "TEXT_OPT_INTERNAL_BOOL": "Tall, Lean, Muscular Albert Einstein",
++        "TEXT_OPT_INTERNAL": "Long Bridge Switch",
++        "TEXT_OPT_RES1": "CCleaner Full Screen",
++        "TEXT_OPT_RES2": "CCleaner Side Screen",
++        "TEXT_OPT_RES3": "Cold Move",
++        "TEXT_OPT_RES4": "Cold Water",
++        "TEXT_OPT_RES5": "Coolant Switch",
++        "TEXT_OPT_RES6": "Subsurface",
++        "TEXT_OPT_RES7": "Subsurface Transport",
++        "TEXT_OPT_RES8": "Subsurface Vents",
++        "TEXT_OPT_RES9": "Subsurface Lights",
++        "TEXT_OPT_RES10": "Subsurface Sinks",
++        "TEXT_OPT_RES11": "Subsurface Sinks that vary in power",
++        "TEXT_OPT_RES12": "Substitute Effect Modifier",
++        "TEXT_OPT_FORCE4BY3": "Save Save Save Save Modifier",
++        "TEXT_OPT_RESETWND": "Hereby Officer",
++        "TEXT_BIND_A": "Llo A",
++        "TEXT_BIND_B": "Llo Lao",
++        "TEXT_BIND_START": "Huge Flipy",
++        "TEXT_BIND_L": "New Tab",
++        "TEXT_BIND_R": "Swap Urls",
++        "TEXT_BIND_Z": "Freezer",
++        "TEXT_BIND_C_UP": "Dry Drinks",
++        "TEXT_BIND_C_DOWN": "Slices",
++        "TEXT_BIND_C_LEFT": "Casseroles",
++        "TEXT_BIND_C_RIGHT": "Cupcakes",
++        "TEXT_BIND_UP": "Three Coins On The Wall",
++        "TEXT_BIND_DOWN": "Three Coins On Jack",
++        "TEXT_BIND_LEFT": "Three Coins On Strawberry",
++        "TEXT_BIND_RIGHT": "Three Coins On Title Bar",
++        "TEXT_OPT_DEADZONE": "Schweinsteins",
++        "TEXT_OPT_RUMBLE": "Taillong Shot",
++        "TEXT_OPT_PA1": "The Castle Ahead",
++        "TEXT_OPT_PA2": "Is the Boar's Cap",
++        "TEXT_OPT_PA3": "Aren't you Mario?",
++        "TEXT_OPT_PA4": "Getting into the Race?",
++        "TEXT_OPT_PA5": "Gosh, I wish",
++        "TEXT_OPT_PA6": "I could see you",
++        "TEXT_OPT_PA7": "Happily!",
++        "TEXT_OPT_PA8": "Let me know!",
++        "TEXT_OPT_BLJCHT1": "Secret",
++        "TEXT_OPT_BLJCHT2": "Air",
++        "TEXT_OPT_BLJCHT3": "Subset of (Hazy) Sub",
++        "TEXT_OPT_BLJCHT4": "Subset of (Disappointing) Sub",
++        "TEXT_OPT_BLJCHT5": "Subset of (Unusual) Sub",
++        "TEXT_OPT_BLJCHT6": "Subset of (Very Bad) Sub",
++        "TEXT_OPT_BLJCHT7": "Subset of (Poorly Cast) Sub",
++        "TEXT_OPT_BLJCHT8": "Signature Block",
++        "TEXT_OPT_BLJCHT9": "All Coins is in the Magik Buinty",
++        "TEXT_OPT_BLJCHT10": "All Coins is in the Amihigher Amp",
++        "TEXT_OPT_BLJCHT11": "All Coins is in the Eternal Cake",
++        "TEXT_OPT_BLJCHT12": "All Coins is in the Cake with the Gym",
++        "TEXT_OPT_BLJCHT13": "All Coins is in the Eternal Castle",
++        "TEXT_OPT_GAME": "CAVE WING",
++        "TEXT_OPT_LANGUAGE": "He's Right",
++        "TEXT_OPT_PRECACHE": "It is Your Time",
++        "TEXT_OPT_SWITCH_HUD": "Why?",
++        "TEXT_OPT_BILLBOARDS": "That's the Secret",
++
++        "TEXT_OPT_RT64": "BEHIND IT",
++        "TEXT_OPT_TARGETFPS": "Be Careful!",
++        "TEXT_OPT_DLSS": "Moaramon",
++        "TEXT_OPT_RESSCALE": "Butch, Wetrosia",
++        "TEXT_OPT_MAXLIGHTS": "You are the Light!",
++        "TEXT_OPT_SPHEREL": "Here is the Big Bow!",
++        "TEXT_OPT_GI": "Secret of the Race",
++        "TEXT_OPT_DENOISER": "Making Mario",
++        "TEXT_OPT_MOTBLUR": "Forbidden Fall",
++        "TEXT_OPT_DLSS_OFF": "Lava Land",
++        "TEXT_OPT_DLSS_AUTO": "Monkey Act IV",
++        "TEXT_OPT_DLSS_MAXQ": "First Steps",
++        "TEXT_OPT_DLSS_BAL": "Second Steps",
++        "TEXT_OPT_DLSS_MAXP": "Score Textures",
++        "TEXT_OPT_DLSS_ULTP": "Shutterstep Scale",
++        "TEXT_BIND_D_UP": "Phase 3",
++        "TEXT_BIND_D_DOWN": "Phase 4",
++        "TEXT_BIND_D_LEFT": "Phase 5",
++        "TEXT_BIND_D_RIGHT": "Phase 6",
++        "TEXT_BIND_TIME_STOP": "Breath API",
++        "TEXT_BIND_SPAMBA_CONTROLS": "Disadvantage Classification",
++
++        "TEXT_OPT_CHEAT_CATEGORY_CLASSIC_TITLE": "STEAL THE LOGIC",
++        "TEXT_OPT_CHEAT_CATEGORY_MODIFIERS_TITLE": "EXPLAINING THE LOGIC",
++        "TEXT_OPT_CHEAT_CATEGORY_TIME_SPACE_TITLE": "ALTER THE LOGIC",
++        "TEXT_OPT_CHEAT_CATEGORY_CLASSIC_LABEL": "Steal the Logic",
++        "TEXT_OPT_CHEAT_CATEGORY_MODIFIERS_LABEL": "Explaining the Logic",
++        "TEXT_OPT_CHEAT_CATEGORY_TIME_SPACE_LABEL": "Alter the Logic",
++        "TEXT_OPT_CHEAT_DISABLE_ALL_CHEATS": "Cheatign Ignore",
++
++        "TEXT_OPT_CHEAT_ENABLE_CHEATS": "Explosives Online",
++        "TEXT_OPT_CHEAT_SPAMBA": "Don't be Scared",
++        "TEXT_OPT_CHEAT_CHAOS_MODE": "Max Chemistrates",
++
++        "TEXT_OPT_CHEAT_MOON_JUMP": "ORM Text Editors",
++        "TEXT_OPT_CHEAT_GOD_MODE": "Pause Attack",
++        "TEXT_OPT_CHEAT_INFINITE_LIVES": "The True Trick",
++        "TEXT_OPT_CHEAT_RESPONSIVE": "Super ASCII",
++        "TEXT_OPT_CHEAT_MOON_GRAVITY": "33654 Happiness",
++        "TEXT_OPT_CHEAT_DEBUG_MOVE": "Fourth Stop",
++        "TEXT_OPT_CHEAT_SUPER_COPTER": "Captain Awkward",
++        "TEXT_OPT_CHEAT_AUTO_WALL_KICK": "Instant Fake",
++        "TEXT_OPT_CHEAT_NO_HOLD_HEAVY": "Extra Varsia",
++
++        "TEXT_OPT_CHEAT_SPEED_MODIFIER": "Eyerocks Cap",
++        "TEXT_OPT_CHEAT_JUMP_MODIFIER": "Eyerocks Topknot",
++        "TEXT_OPT_CHEAT_SWIM_MODIFIER": "Eyerocks Display",
++        "TEXT_OPT_CHEAT_SIZE_MODIFIER": "Eyerocks Five Stars",
++        "TEXT_OPT_CHEAT_CAP_MODIFIER": "Outside Saffety",
++        "TEXT_OPT_CHEAT_SUPER_WING_CAP": "Base Ball",
++        "TEXT_OPT_CHEAT_PLAY_AS": "Mario's Cave",
++        "TEXT_OPT_CHEAT_JUKEBOX": "Girl is a Plant",
++        "TEXT_OPT_CHEAT_JUKEBOX_MUSIC": "Girl Coin is Functional",
++        "TEXT_OPT_CHEAT_SPEED_DISPLAY": "Theory of Cards",
++        
++        "TEXT_OPT_CHEAT_BLJ_ANYWHERE": "Swim on the Heavy",
++        "TEXT_OPT_CHEAT_SWIM_ANYWHERE": "Swim on the Ground",
++        "TEXT_OPT_CHEAT_EXIT_ANYWHERE": "Swim on the Surface",
++        "TEXT_OPT_CHEAT_WALK_ON_HAZARDS": "Swim on the Vanish Heads",
++        "TEXT_OPT_CHEAT_NO_DEATH_BARRIER": "Swim With Either",
++        "TEXT_OPT_CHEAT_NO_BOUNDS": "Spot Mine on Tracks",
++        "TEXT_OPT_CHEAT_WATER_LEVEL": "Chill Month",
++        "TEXT_OPT_CHEAT_COINS_MAGNET": "Star Compacts",
++        "TEXT_OPT_CHEAT_TIME_STOP": "Static Trophies",
++        "TEXT_OPT_CHEAT_QUICK_ENDING": "Koopa Trot Showdown",
++        "TEXT_OPT_CHEAT_HURT_MARIO": "Unboxing the Big Boo",
++
++        "TEXT_OPT_CHEAT_MODIFIER_X1": "Warfare Cave",
++        "TEXT_OPT_CHEAT_MODIFIER_X2": "Warfare Spinter",
++        "TEXT_OPT_CHEAT_MODIFIER_X3": "Warfare Cage",
++        "TEXT_OPT_CHEAT_MODIFIER_X4": "Warfare Spinter Going Berry",
++        "TEXT_OPT_CHEAT_MODIFIER_X5": "Warfare Cage Going Berry",
++        
++        "TEXT_OPT_CHEAT_SIZE_X1": "Jury Dunk",
++        "TEXT_OPT_CHEAT_SIZE_X2": "Jury Dunk Jump",
++        "TEXT_OPT_CHEAT_SIZE_X3": "Jury Jump Shock",
++        "TEXT_OPT_CHEAT_SIZE_X4": "Jury Motto Red Titlizer",
++        "TEXT_OPT_CHEAT_SIZE_X0": "Jury Motto Red Titlizer Chilly",
++        "TEXT_OPT_CHEAT_SIZE_X0_25": "Jury Jump Cold Coins",
++        "TEXT_OPT_CHEAT_SIZE_X0_5": "Jury Cold Coins Cheap",
++        "TEXT_OPT_CHEAT_SIZE_X0_75": "Jury Chilly Chilly",
++
++        "TEXT_OPT_CHEAT_HURT_DISABLED": "Time Attack",
++        "TEXT_OPT_CHEAT_HURT_KNOCKBACK": "Big Boost Clam",
++        "TEXT_OPT_CHEAT_HURT_SHOCK": "Starscream Paint Attempt",
++        "TEXT_OPT_CHEAT_HURT_BURN": "Taunt",
++        "TEXT_OPT_CHEAT_HURT_LAVA_BOOST": "Predatory Pose",
++        "TEXT_OPT_CHEAT_HURT_SQUISH": "Slam Machine",
++        "TEXT_OPT_CHEAT_HURT_STUCK": "Bowser Up!",
++        "TEXT_OPT_CHEAT_HURT_1_HP": "Bulk Hurt Monkey",
++
++        "TEXT_OPT_CHEAT_WATER_LEVEL_DEFAULT": "Long Distance",
++        "TEXT_OPT_CHEAT_WATER_LEVEL_DRAINED": "Chaos Box",
++        "TEXT_OPT_CHEAT_WATER_LEVEL_FLOODED": "Control Box",
++
++        "TEXT_OPT_CHEAT_JUKEBOX_BOB": "Navy Santa Brezaury",
++        "TEXT_OPT_CHEAT_JUKEBOX_WF": "Worst Safe Way to Waterfall",
++        "TEXT_OPT_CHEAT_JUKEBOX_CCM": "Small Tall Ten Hash",
++        "TEXT_OPT_CHEAT_JUKEBOX_CCM_SLIDE": "Go on Snows to Observate the World",
++        "TEXT_OPT_CHEAT_JUKEBOX_JRB_PHASE_1": "It's a Long, Lonely Road",
++        "TEXT_OPT_CHEAT_JUKEBOX_JRB_PHASE_2": "Step 11: Castle 2",
++        "TEXT_OPT_CHEAT_JUKEBOX_JRB_PHASE_3": "Step on Eight Star",
++        "TEXT_OPT_CHEAT_JUKEBOX_JRB_SHIP": "The Step by Step Guide",
++        "TEXT_OPT_CHEAT_JUKEBOX_BBH_PHASE_1": "Ice Capacitals Fort On",
++        "TEXT_OPT_CHEAT_JUKEBOX_BBH_PHASE_2": "Beyond Translated Chapter",
++        "TEXT_OPT_CHEAT_JUKEBOX_HMC_PHASE_1": "Sale Rainbow Lost for Revenge",
++        "TEXT_OPT_CHEAT_JUKEBOX_HMC_PHASE_2": "Be Rendering Steam Land",
++        "TEXT_OPT_CHEAT_JUKEBOX_LLL_OUTSIDE": "Switchboro Advisory",
++        "TEXT_OPT_CHEAT_JUKEBOX_LLL_VOLCANO": "Monthly and Lunch Special!",
++        "TEXT_OPT_CHEAT_JUKEBOX_SSL_OUTSIDE": "In the Land of Trap and Damage",
++        "TEXT_OPT_CHEAT_JUKEBOX_SSL_PYRAMID": "Quick, Dirty Work!",
++        "TEXT_OPT_CHEAT_JUKEBOX_SSL_EYEROK": "Caps on the Top of the Tower",
++        "TEXT_OPT_CHEAT_JUKEBOX_DDD_PHASE_1": "The Lunatic Valley",
++        "TEXT_OPT_CHEAT_JUKEBOX_DDD_PHASE_2": "Harder Storm Location",
++        "TEXT_OPT_CHEAT_JUKEBOX_DDD_PHASE_3": "He's Only a Friend!",
++        "TEXT_OPT_CHEAT_JUKEBOX_SL_OUTSIDE": "Bridge, Michigan",
++        "TEXT_OPT_CHEAT_JUKEBOX_SL_IGLOO": "Video Game Comedy Bust!",
++        "TEXT_OPT_CHEAT_JUKEBOX_WDW_MAIN": "Award Winner's Costl",
++        "TEXT_OPT_CHEAT_JUKEBOX_WDW_TOWN": "Pull Up on Vanishimera",
++        "TEXT_OPT_CHEAT_JUKEBOX_TTM_OUTSIDE": "Sizy Assault the Eagle Tribal Guards",
++        "TEXT_OPT_CHEAT_JUKEBOX_TTM_SLIDE": "3,590 LB Wheel Wheel With Straight Lonely Topology",
++        "TEXT_OPT_CHEAT_JUKEBOX_THI_HUGE": "The Big Bull-Arried Bull Corner",
++        "TEXT_OPT_CHEAT_JUKEBOX_THI_TINY": "Every Quisflex Cross Good Into Bad Coin",
++        "TEXT_OPT_CHEAT_JUKEBOX_THI_WIGGLER": "You'll be a Into Mario",
++        "TEXT_OPT_CHEAT_JUKEBOX_TTC": "Awesome Wet Analyst",
++        "TEXT_OPT_CHEAT_JUKEBOX_RR": "Upper Lower Big Benins",
++        "TEXT_OPT_CHEAT_JUKEBOX_BITDW": "Am Through the Winging in the Middle",
++        "TEXT_OPT_CHEAT_JUKEBOX_BITFS": "Bowser's Big Star-Crossing Station",
++        "TEXT_OPT_CHEAT_JUKEBOX_BITS": "In the Sky-High Merca for Fast, Invisible Poker Block",
++        "TEXT_OPT_CHEAT_JUKEBOX_SA": "Ice Fly Island",
++        "TEXT_OPT_CHEAT_JUKEBOX_WMOTR": "Rainbow Race in the Rainbow",
++        "TEXT_OPT_CHEAT_JUKEBOX_PSS": "Secret View From the 25 Streamed Illuminated Flower",
++        "TEXT_OPT_CHEAT_JUKEBOX_COTMC": "Really-Gummy Wild Thievos",
++        "TEXT_OPT_CHEAT_JUKEBOX_TOTWC": "Automatic Wing Drawing Reticle",
++        "TEXT_OPT_CHEAT_JUKEBOX_VCUTM": "Elevator Sky Slift",
++        "TEXT_OPT_CHEAT_JUKEBOX_BOWSER_1": "Bytch A",
++        "TEXT_OPT_CHEAT_JUKEBOX_BOWSER_2": "Bytch B",
++        "TEXT_OPT_CHEAT_JUKEBOX_BOWSER_3": "Bytch C",
++        "TEXT_OPT_CHEAT_JUKEBOX_INSIDE_CASTLE_LOBBY": "Castle of the Exalt",
++        "TEXT_OPT_CHEAT_JUKEBOX_INSIDE_CASTLE_TIPPY": "Castle of the Mushroom Thomps",
++        "TEXT_OPT_CHEAT_JUKEBOX_INSIDE_CASTLE_BASEMENT": "Castle of the Vanish Sand",
++        "TEXT_OPT_CHEAT_JUKEBOX_CASTLE_GROUNDS": "Any Fourthchant",
++        "TEXT_OPT_CHEAT_JUKEBOX_CASTLE_COURTYARD": "All Fourthchant",
++        "TEXT_OPT_CHEAT_JUKEBOX_FOURTH_FLOOR": "The Last Talons of the Secret War",
++        "TEXT_OPT_CHEAT_JUKEBOX_CAP_WING": "Object Cap",
++        "TEXT_OPT_CHEAT_JUKEBOX_CAP_VANISH": "Moon Cap",
++        "TEXT_OPT_CHEAT_JUKEBOX_CAP_METAL": "Master Cap",
++        "TEXT_OPT_CHEAT_JUKEBOX_SHELL": "Black Hole Dating",
++        "TEXT_OPT_CHEAT_JUKEBOX_RACE": "Dissilge Mario",
++        "TEXT_OPT_CHEAT_JUKEBOX_BOSS_INTRO": "Tower 1",
++        "TEXT_OPT_CHEAT_JUKEBOX_BOSS_THEME": "Tower 2",
++        "TEXT_OPT_CHEAT_JUKEBOX_GOT_MILK": "Shred the Chain",
++        
++        "TEXT_OPT_CHEAT_JUKEBOX_TITLE_SCREEN": "The Mushroom is Tocache",
++        "TEXT_OPT_CHEAT_JUKEBOX_FILE_SELECT": "Hall of the Familiar",
++        "TEXT_OPT_CHEAT_JUKEBOX_PIRANHA_PLANT": "Welcome to Lakitu",
++        "TEXT_OPT_CHEAT_JUKEBOX_MERRY_GO_ROUND": "The Hunka Clown",
++        "TEXT_OPT_CHEAT_JUKEBOX_ENDLESS_STAIRS": "Dudley's Themed Drabland",
++
++        "TEXT_OPT_CHEAT_SPAMBA_YELLOW_COIN": "KICK",
++        "TEXT_OPT_CHEAT_SPAMBA_RED_COIN": "KICK STANDING",
++        "TEXT_OPT_CHEAT_SPAMBA_BLUE_COIN": "KICK (ADDED FIRST)",
++        "TEXT_OPT_CHEAT_SPAMBA_MUSHROOM_1UP": "ARROW",
++        "TEXT_OPT_CHEAT_SPAMBA_STAR_1": "BROWN (VOCAL ONLY)",
++        "TEXT_OPT_CHEAT_SPAMBA_STAR_2": "PINK (VOCAL ONLY)",
++        "TEXT_OPT_CHEAT_SPAMBA_STAR_3": "BLUE (VOCAL ONLY)",
++        "TEXT_OPT_CHEAT_SPAMBA_STAR_4": "RED (VOCAL ONLY)",
++        "TEXT_OPT_CHEAT_SPAMBA_STAR_5": "YELLOW (VOCAL ONLY)",
++        "TEXT_OPT_CHEAT_SPAMBA_STAR_6": "SNAKE (VOCAL ONLY)",
++        "TEXT_OPT_CHEAT_SPAMBA_STAR_7": "TACTLIER (VOCAL ONLY)",
++        "TEXT_OPT_CHEAT_SPAMBA_WING_CAP": "OBJECT CAP",
++        "TEXT_OPT_CHEAT_SPAMBA_VANISH_CAP": "MOON CAP",
++        "TEXT_OPT_CHEAT_SPAMBA_METAL_CAP": "MASTER CAP",
++        "TEXT_OPT_CHEAT_SPAMBA_NORMAL_CAP": "WINGSUIT CAP",
++        "TEXT_OPT_CHEAT_SPAMBA_RECOVERY_HEART": "BOXED",
++        "TEXT_OPT_CHEAT_SPAMBA_GOOMBA": "PIE PIE",
++        "TEXT_OPT_CHEAT_SPAMBA_GOOMBA_TRIPLET": "PIE PIE PIERCE",
++        "TEXT_OPT_CHEAT_SPAMBA_KOOPA": "PIG PIG",
++        "TEXT_OPT_CHEAT_SPAMBA_KOOPA_SHELL": "PIG PIG PIERCE",
++        "TEXT_OPT_CHEAT_SPAMBA_BOBOMB": "THE RACE IS OVER",
++        "TEXT_OPT_CHEAT_SPAMBA_BOBOMB_BUDDY": "THE END IS HERE",
++        "TEXT_OPT_CHEAT_SPAMBA_CHAIN_CHOMP": "SECRET PIG PUPPY",
++        "TEXT_OPT_CHEAT_SPAMBA_PIRANHA_PLANT": "BURN THE ROOM",
++        "TEXT_OPT_CHEAT_SPAMBA_PIRANHA_PLANT_FIRE": "BURN THE ROOM TO POSE ME",
++        "TEXT_OPT_CHEAT_SPAMBA_WHOMP": "SNOWMAN 2",
++        "TEXT_OPT_CHEAT_SPAMBA_SPINDRIFT": "SNOW CI T",
++        "TEXT_OPT_CHEAT_SPAMBA_BOO": "TNT",
++        "TEXT_OPT_CHEAT_SPAMBA_MR_I": "ANCOMB DOWN",
++        "TEXT_OPT_CHEAT_SPAMBA_BOOK": "ANGEL DOWN",
++        "TEXT_OPT_CHEAT_SPAMBA_SCUTTLEBUG": "DRAGON DOWN",
++        "TEXT_OPT_CHEAT_SPAMBA_SWOOP": "GIFT BOX DOWN",
++        "TEXT_OPT_CHEAT_SPAMBA_SNUFIT": "GIFT BOX UP",
++        "TEXT_OPT_CHEAT_SPAMBA_BULLY": "BOX CHAIRS",
++        "TEXT_OPT_CHEAT_SPAMBA_CHILL_BULLY": "SLOW MAN CHAIR",
++        "TEXT_OPT_CHEAT_SPAMBA_MOTOS": "FOUR THOT POPIN",
++        "TEXT_OPT_CHEAT_SPAMBA_BLARGG": "CAGE (STONE)",
++        "TEXT_OPT_CHEAT_SPAMBA_POKEY": "CAGE (NORMAL)",
++        "TEXT_OPT_CHEAT_SPAMBA_FLYGUY": "CONTROLS DRAINED",
++        "TEXT_OPT_CHEAT_SPAMBA_MONEYBAG": "DRAINED JOY",
++        "TEXT_OPT_CHEAT_SPAMBA_CHUCKYA": "JOY DRAINED",
++        "TEXT_OPT_CHEAT_SPAMBA_SKEETER": "WOLVERINE",
++        "TEXT_OPT_CHEAT_SPAMBA_LAKITU": "WINDSWEPT RIVER",
++        "TEXT_OPT_CHEAT_SPAMBA_SPINY": "SPEAKING LARGE",
++        "TEXT_OPT_CHEAT_SPAMBA_BOWLING_BALL": "TOPALLEY (VOTABLE)",
++        "TEXT_OPT_CHEAT_SPAMBA_CLAM": "HIGH POINT",
++        "TEXT_OPT_CHEAT_SPAMBA_MR_BLIZZARD": "HAZY RIVER",
++        "TEXT_OPT_CHEAT_SPAMBA_HAUNTED_CHAIR": "MOUNTAINTOP",
++        "TEXT_OPT_CHEAT_SPAMBA_MAD_PIANO": "ATOMIC GLOBE",
++        "TEXT_OPT_CHEAT_SPAMBA_BIG_BOULDER": "REVERSES BACK",
++        "TEXT_OPT_CHEAT_SPAMBA_FIRE_SPITTER": "WALL",
++        "TEXT_OPT_CHEAT_SPAMBA_FLAMETHROWER": "BACKSTEP",
++        "TEXT_OPT_CHEAT_SPAMBA_BOUNCING_FIREBALL": "HOVER",
++        "TEXT_OPT_CHEAT_SPAMBA_CIRCLING_AMP": "WARNING CROUCH",
++        "TEXT_OPT_CHEAT_SPAMBA_HOMING_AMP": "YES!!",
++        "TEXT_OPT_CHEAT_SPAMBA_HEAVE_HO": "WHOMB GROUNDS",
++        "TEXT_OPT_CHEAT_SPAMBA_KING_BOBOMB": "KELDEO THE WHITEMARE",
++        "TEXT_OPT_CHEAT_SPAMBA_KING_WHOMP": "DYNA TROPHIES",
++        "TEXT_OPT_CHEAT_SPAMBA_BIG_BOO": "MARIKANA",
++        "TEXT_OPT_CHEAT_SPAMBA_BIG_BULLY": "CARDGAME CASTLE",
++        "TEXT_OPT_CHEAT_SPAMBA_BIG_CHILL_BULLY": "LOS ANGELES",
++        "TEXT_OPT_CHEAT_SPAMBA_EYEROCK": "AUTO-GO",
++        "TEXT_OPT_CHEAT_SPAMBA_WIGGLER": "NONE",
++        "TEXT_OPT_CHEAT_SPAMBA_BOWSER": "FIRE SWITCH",
++        "TEXT_OPT_CHEAT_SPAMBA_HOOT": "BURN CHAIN PUZZLE",
++        "TEXT_OPT_CHEAT_SPAMBA_PENGUIN": "STATISTICS",
++        "TEXT_OPT_CHEAT_SPAMBA_MOTHER_PENGUIN": "HIGHER RUNE",
++        "TEXT_OPT_CHEAT_SPAMBA_KLEPTO": "DISADVANTAGES",
++        "TEXT_OPT_CHEAT_SPAMBA_UKIKI": "MEDIUM DUTY",
++        "TEXT_OPT_CHEAT_SPAMBA_TOAD": "KICKSHOT",
++        "TEXT_OPT_CHEAT_SPAMBA_SIGNPOST": "IDIOT JIHU",
++        "TEXT_OPT_CHEAT_SPAMBA_CANNON": "CLEMSON",
++        "TEXT_OPT_CHEAT_SPAMBA_BREAKABLE_BOX": "ENGLISH MELON SKINS",
++        "TEXT_OPT_CHEAT_SPAMBA_BREAKABLE_BOX_SMALL": "LEGACY",
++        "TEXT_OPT_CHEAT_SPAMBA_CRAZY_BOX": "BIKE TALK",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_WING_CAP": "AIR RESTARTED",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_METAL_CAP": "AIR PLAYABLE",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_VANISH_CAP": "AIR BLAST",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_KOOPA_SHELL": "MP THRUST",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_ONE_COIN": "MP ALTHEA",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_THREE_COINS": "BIKE TALK",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_TEN_COINS": "SKATEBOARDS",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_MUSHROOM_1UP": "TEETH",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_1": "KHALEESI",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_2": "KOALUGAM",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_3": "KHALLEECA",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_4": "KALIMOSAH",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_5": "KHALIMOSOH",
++        "TEXT_OPT_CHEAT_SPAMBA_EXCLAMATION_BOX_STAR_6": "KUHLSOO",
++        "TEXT_OPT_CHEAT_SPAMBA_METAL_BOX": "JOINED MONTHS",
++        "TEXT_OPT_CHEAT_SPAMBA_THWOMP": "WARRIOR",
++        "TEXT_OPT_CHEAT_SPAMBA_GRINDEL": "WAR PAINT",
++        "TEXT_OPT_CHEAT_SPAMBA_GRINDEL_HORIZONTAL": "BEASTIALITY",
++        "TEXT_OPT_CHEAT_SPAMBA_SPINDEL": "THE MERCHANT",
++        "TEXT_OPT_CHEAT_SPAMBA_TOX_BOX": "THE INDOMITABLE",
++
++        "TEXT_OPT_CHEAT_CHAOS_TEXT": "NOW YOU",
++        "TEXT_OPT_CHEAT_CHAOS_LIFE_DRAIN": "THUNK IT",
++        "TEXT_OPT_CHEAT_CHAOS_CONTROLS": "THE DOT",
++        "TEXT_OPT_CHEAT_CHAOS_GRAVITY": "RUMINATION",
++        "TEXT_OPT_CHEAT_CHAOS_WALL_KICKS": "FAN YOUR BUTTS",
++        "TEXT_OPT_CHEAT_CHAOS_HOLD_MODIFIER": "JUKEMETAL",
++        "TEXT_OPT_CHEAT_CHAOS_SPEED_MODIFIER": "EYEROCKS CAP",
++        "TEXT_OPT_CHEAT_CHAOS_JUMP_MODIFIER": "EYEROCKS TOPKNOT",
++        "TEXT_OPT_CHEAT_CHAOS_SWIM_MODIFIER": "EYEROCKS DISPLAY",
++        "TEXT_OPT_CHEAT_CHAOS_SIZE_MODIFIER": "EYEROCKS FIVE STARS",
++        "TEXT_OPT_CHEAT_CHAOS_CAP_MODIFIER": "OUTSIDE SAFFETY",
++        "TEXT_OPT_CHEAT_CHAOS_PLAY_AS": "MARIO'S CAVE",
++        "TEXT_OPT_CHEAT_CHAOS_RELEASIO": "THERE IS NO LIBRARY HERE!",
++        "TEXT_OPT_CHEAT_CHAOS_SWIM_ANYWHERE": "SWIM ON THE GROUND",
++        "TEXT_OPT_CHEAT_CHAOS_FLOOR_IS_LAVA": "FREE CAGE RULES",
++        "TEXT_OPT_CHEAT_CHAOS_DEADLY_OBJECTS": "PISTONS",
++        "TEXT_OPT_CHEAT_CHAOS_NO_BOUNDS": "SPOT MINE ON TRACKS",
++        "TEXT_OPT_CHEAT_CHAOS_WATER_LEVEL": "CHILL MONTH",
++        "TEXT_OPT_CHEAT_CHAOS_OBJECT_MAGNET": "SANDBOXER",
++        "TEXT_OPT_CHEAT_CHAOS_SLOW_TIME": "HUFFY CURSOR",
++        "TEXT_OPT_CHEAT_CHAOS_HURT_MARIO": "UNBOXING THE BIG BOO",
++        "TEXT_OPT_CHEAT_CHAOS_DISPLAY": "SWORN CITIZEN",
++        "TEXT_OPT_CHEAT_CHAOS_RAINBOW": "ARROW OF JUSTICE",
++        "TEXT_OPT_CHEAT_CHAOS_INVERTED_SCREEN": "ERASE ANY",
++        "TEXT_OPT_CHEAT_CHAOS_WIREFRAME": "TORTURE",
++        "TEXT_OPT_CHEAT_CHAOS_JACKPOT": "WHEN WINGING",
++        "TEXT_OPT_CHEAT_CHAOS_GREEN_DEMON": "NON NONSENSE",
++        "TEXT_OPT_CHEAT_CHAOS_STAR": "DIRTY-FIVE PLANETS",
++        "TEXT_OPT_CHEAT_CHAOS_GOOMBA_PLAGUE": "SPEED ROOM 1",
++        "TEXT_OPT_CHEAT_CHAOS_BOBOMB_RAIN": "ALLOW JOINERS ON MISSION",
++        "TEXT_OPT_CHEAT_CHAOS_CHAIRS": "MOUNTAINTOP",
++        "TEXT_OPT_CHEAT_CHAOS_STALKERS": "RETURN TO PLAY",
++        "TEXT_OPT_CHEAT_CHAOS_SHOOTERS": "SCORING MUSIC",
++        "TEXT_OPT_CHEAT_CHAOS_CHUCKSTERS": "TIME OUT",
++        "TEXT_OPT_CHEAT_CHAOS_DODGEBALL": "DISABLE POWER STOP",
++        "TEXT_OPT_CHEAT_CHAOS_BOSS_FIGHT": "SMOOTH THROUGH",
++        "TEXT_OPT_CHEAT_CHAOS_BOWSER_TIME": "SWEEPING WHIRLTHROUGH",
++        "TEXT_OPT_CHEAT_CHAOS_HOOT": "BURN CHAIN PUZZLE",
++        "TEXT_OPT_CHEAT_CHAOS_NPCS": "BILL MAKER",
++        "TEXT_OPT_CHEAT_CHAOS_MINECRAFT": "EXO CACHE",
++        "TEXT_OPT_CHEAT_CHAOS_SURPRISE": "LAKELAND"
++    },
++    "strings": {
++        "TEXT_ZERO": "0",
++        "TEXT_COIN": "$",
++        "TEXT_STAR": "{09733}",
++        "TEXT_COIN_X": "${00215}",
++        "TEXT_STAR_X": "{09733}{00215}",
++        "TEXT_VARIABLE_X": "{00215}",
++        "TEXT_UNFILLED_STAR": "{09734}",
++        "TEXT_NEW": "WHATEVER",
++        "TEXT_4DASHES": "----",
++        "TEXT_PAUSE": "BASTILLE",
++        "TEXT_HUD_CONGRATULATIONS": "YET WHATEVER",
++        "TEXT_MARIO": "SOUND COURSE",
++        "TEXT_SELECT_FILE": "START LLLO",
++        "TEXT_CHECK_FILE": "MARIO JOB",
++        "TEXT_COPY_FILE": "STAMP MARIO LAMB",
++        "TEXT_ERASE_FILE": "EXIT START",
++        "TEXT_SOUND_SELECT": "FILTER FILTERER",
++        "TEXT_FILE_MARIO_A": "MARIO'S 64 FILE NAME",
++        "TEXT_FILE_MARIO_B": "MARIO'S 2D MARIO",
++        "TEXT_FILE_MARIO_C": "MARIO'S NEW PIXEL COUNT",
++        "TEXT_FILE_MARIO_D": "MARIO'S CASTLE CASTLE",
++        "TEXT_SCORE": "PHILDBUS",
++        "TEXT_COPY": "STARS STRATIFIED",
++        "TEXT_ERASE": "ALLIANCE OVERRIDE",
++        "TEXT_STEREO": "ANDALOGUE",
++        "TEXT_MONO": "NAOKO",
++        "TEXT_HEADSET": "PHONES",
 +        "TEXT_SAVED_DATA_EXISTS": "ONI AGGRESSION",
 +        "TEXT_NO_SAVED_DATA_EXISTS": "OH MY GOD, WHERE'S THE KING BEGIS",
 +        "TEXT_RETURN": "SPAIN TRAINER",
