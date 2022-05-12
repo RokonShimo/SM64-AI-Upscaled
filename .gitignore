@@ -4,3 +4,4 @@
 *.zip
 [Mm]ystuff/
 *.c
+!Texts/src/game/level_update.c
