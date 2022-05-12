@@ -1,6 +1,12 @@
 levels
 	bbh
+	castle_grounds
+	castle_inside
 	hmc
+	intro
+	ssl
+	wf
+	wmotr
 actors
 	boo
 	boo_castle
@@ -11,8 +17,11 @@ actors
 	cannon_lid
 	explosion
 	heart
+	koopa_flag
 	mad_piano
+	metal_box
 	mr_i_iris
+	warp_pipe
 textures
 	title_screen_bg
 	spooky

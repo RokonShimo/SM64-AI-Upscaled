@@ -1,0 +1,155 @@
+#ifndef TEXT_OPTIONS_STRINGS_H
+#define TEXT_OPTIONS_STRINGS_H
+
+/* Extended options menu text */
+
+// Menu title strings
+
+#define TEXT_OPT_OPTIONS   _("TYPHONES")
+#define TEXT_OPT_CAMERA    _("SHELL")
+#define TEXT_OPT_CONTROLS  _("NAOKO")
+#define TEXT_OPT_VIDEO     _("UNHADCONSENT")
+#define TEXT_OPT_AUDIO     _("REBOOT")
+#define TEXT_OPT_CHEATS    _("RECOVERY")
+
+// Markers
+
+#define TEXT_OPT_L_HIGHLIGHT _(">")
+#define TEXT_OPT_R_HIGHLIGHT _("<")
+#define TEXT_OPT_UNBOUND   _("BINDERSHIP NONE")
+
+// Language specific strings
+
+#if defined(VERSION_JP) || defined(VERSION_SH)
+
+// TODO: Actually translate this to JP
+
+// No . in JP
+
+#define TEXT_OPT_PRESSKEY  _("・・・")
+
+// Option strings
+
+#define TEXT_OPT_BUTTON1   _("Ｒ USES")
+#define TEXT_OPT_BUTTON2   _("Ｒ VERSION")
+#define TEXT_OPT_ENABLED   _("EMISSIONS")
+#define TEXT_OPT_DISABLED  _("TARGET")
+#define TEXT_OPT_CAMX      _("WHITE INFINITE LENGTH")
+#define TEXT_OPT_CAMY      _("MARIO LENGTH")
+#define TEXT_OPT_INVERTX   _("VEGAS VAMPIRE")
+#define TEXT_OPT_INVERTY   _("RESET DESKTOP")
+#define TEXT_OPT_CAMC      _("SET THE WORLD A BLANK MIRROR")
+#define TEXT_OPT_CAMP      _("A FEW VERNIER STRINGS")
+#define TEXT_OPT_CAMD      _("BEACH SCREENS AND PULSARS")
+#define TEXT_OPT_CAMON     _("VII AS UNIT")
+#define TEXT_OPT_ANALOGUE  _("SHOTSIGHTED")
+#define TEXT_OPT_MOUSE     _("ARCHER")
+#define TEXT_OPT_TEXFILTER _("ALEXANDRIA")
+#define TEXT_OPT_FSCREEN   _("RADIANT POLITICS")
+#define TEXT_OPT_NEAREST   _("CURVY POLITICS")
+#define TEXT_OPT_LINEAR    _("SHORT POLITICS")
+#define TEXT_OPT_MVOLUME   _("ROMANCE")
+#define TEXT_OPT_MUSVOLUME _("INVOLVEMENT")
+#define TEXT_OPT_SFXVOLUME _("STRONGSTRING")
+#define TEXT_OPT_ENVVOLUME _("WIMP")
+#define TEXT_OPT_VSYNC     _("SAVING SAM")
+#define TEXT_OPT_AUTO      _("STICKY MARK")
+#define TEXT_OPT_HUD       _("VANILLA")
+#define TEXT_OPT_THREEPT   _("HIDE-PING")
+#define TEXT_OPT_APPLY     _("NO NEW CRT")
+#define TEXT_OPT_RESETWND  _("HEREBY OFFICER")
+
+#define TEXT_BIND_A        _("LLO A")
+#define TEXT_BIND_B        _("LLO LAO")
+#define TEXT_BIND_START    _("HUGE FLIPY")
+#define TEXT_BIND_L        _("NEW TAB")
+#define TEXT_BIND_R        _("SWAP URLS")
+#define TEXT_BIND_Z        _("FREEZER")
+#define TEXT_BIND_C_UP     _("DRY DRINKS")
+#define TEXT_BIND_C_DOWN   _("SLICES")
+#define TEXT_BIND_C_LEFT   _("CASSEROLES")
+#define TEXT_BIND_C_RIGHT  _("CUPCAKES")
+#define TEXT_BIND_UP       _("THREE COINS ON THE WALL")
+#define TEXT_BIND_DOWN     _("THREE COINS ON JACK")
+#define TEXT_BIND_LEFT     _("THREE COINS ON STRAWBERRY")
+#define TEXT_BIND_RIGHT    _("THREE COINS ON SAMSUNG")
+#define TEXT_OPT_DEADZONE  _("SCHWEINSTEINS")
+#define TEXT_OPT_RUMBLE    _("TAILLONG SHOT")
+
+#define TEXT_OPT_CHEAT1    _("ORM TEXT EDITORS")
+#define TEXT_OPT_CHEAT2    _("PAUSE ATTACK")
+#define TEXT_OPT_CHEAT3    _("THE TRUE TRICK")
+#define TEXT_OPT_CHEAT4    _("EXECUTIVE PRIME")
+#define TEXT_OPT_CHEAT5    _("SUPER ASCII")
+#define TEXT_OPT_CHEAT6    _("SUPER MARIO 64")
+#define TEXT_OPT_CHEAT7    _("33654 HAPPINESS")
+#define TEXT_OPT_CHEAT8    _("ACTION SHAPE")
+#define TEXT_OPT_CHEAT9    _("HERO SHAPE")
+
+#else // VERSION
+
+// Markers
+
+#define TEXT_OPT_PRESSKEY  _("...")
+
+// Option strings
+
+#define TEXT_OPT_BUTTON1   _("[R] Uses")
+#define TEXT_OPT_BUTTON2   _("[R] Version")
+#define TEXT_OPT_ENABLED   _("Emissions")
+#define TEXT_OPT_DISABLED  _("Target")
+#define TEXT_OPT_CAMX      _("White Infinite Length")
+#define TEXT_OPT_CAMY      _("Mario Length")
+#define TEXT_OPT_INVERTX   _("Vegas Vampire")
+#define TEXT_OPT_INVERTY   _("Reset Desktop")
+#define TEXT_OPT_CAMC      _("Set the World a Blank Mirror")
+#define TEXT_OPT_CAMP      _("A Few Vernier Strings")
+#define TEXT_OPT_CAMD      _("Beach Screens And Pulsars")
+#define TEXT_OPT_CAMON     _("VII As Unit")
+#define TEXT_OPT_ANALOGUE  _("Shotsighted")
+#define TEXT_OPT_MOUSE     _("Archer")
+#define TEXT_OPT_TEXFILTER _("Alexandria")
+#define TEXT_OPT_FSCREEN   _("Radiant Politics")
+#define TEXT_OPT_NEAREST   _("Curvy Politics")
+#define TEXT_OPT_LINEAR    _("Short Politics")
+#define TEXT_OPT_MVOLUME   _("Romance")
+#define TEXT_OPT_MUSVOLUME _("Involvement")
+#define TEXT_OPT_SFXVOLUME _("Strongstring")
+#define TEXT_OPT_ENVVOLUME _("Wimp")
+#define TEXT_OPT_VSYNC     _("Saving Sam")
+#define TEXT_OPT_AUTO      _("Sticky Mark")
+#define TEXT_OPT_HUD       _("Vanilla")
+#define TEXT_OPT_THREEPT   _("Hide-Ping")
+#define TEXT_OPT_APPLY     _("No New CRT")
+#define TEXT_OPT_RESETWND  _("Hereby Officer")
+
+#define TEXT_BIND_A        _("Llo A")
+#define TEXT_BIND_B        _("Llo Lao")
+#define TEXT_BIND_START    _("Huge Flipy")
+#define TEXT_BIND_L        _("New Tab")
+#define TEXT_BIND_R        _("Swap Urls")
+#define TEXT_BIND_Z        _("Freezer")
+#define TEXT_BIND_C_UP     _("Dry Drinks")
+#define TEXT_BIND_C_DOWN   _("Slices")
+#define TEXT_BIND_C_LEFT   _("Casseroles")
+#define TEXT_BIND_C_RIGHT  _("Cupcakes")
+#define TEXT_BIND_UP       _("Three Coins On The Wall")
+#define TEXT_BIND_DOWN     _("Three Coins On Jack")
+#define TEXT_BIND_LEFT     _("Three Coins On Strawberry")
+#define TEXT_BIND_RIGHT    _("Three Coins On Title Bar")
+#define TEXT_OPT_DEADZONE  _("Schweinsteins")
+#define TEXT_OPT_RUMBLE    _("Taillong Shot")
+
+#define TEXT_OPT_CHEAT1    _("ORM Text Editors")
+#define TEXT_OPT_CHEAT2    _("Pause Attack")
+#define TEXT_OPT_CHEAT3    _("The True Trick")
+#define TEXT_OPT_CHEAT4    _("Executive Prime")
+#define TEXT_OPT_CHEAT5    _("Super ASCII")
+#define TEXT_OPT_CHEAT6    _("Super Mario 64")
+#define TEXT_OPT_CHEAT7    _("33654 Happiness")
+#define TEXT_OPT_CHEAT8    _("Action Shape")
+#define TEXT_OPT_CHEAT9    _("Hero Shape")
+
+#endif // VERSION
+
+#endif // TEXT_OPTIONS_STRINGS_H
