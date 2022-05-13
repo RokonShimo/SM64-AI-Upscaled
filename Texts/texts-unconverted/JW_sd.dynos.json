@@ -17,7 +17,7 @@
     "DYNOS_TEXT_CLOSE_RIGHT": "[R] British",
 
     "DYNOS_LEVEL_TEXT_EMPTY": "",
-    "DYNOS_LEVEL_TEXT_CASTLE": "CASTLE OF THE EXALY",
+    "DYNOS_LEVEL_TEXT_CASTLE": "CASTLE OF THE EXALT",
     "DYNOS_LEVEL_TEXT_BOWSER_1": "BYTCH A",
     "DYNOS_LEVEL_TEXT_BOWSER_2": "BYTCH B",
     "DYNOS_LEVEL_TEXT_BOWSER_3": "BYTCH C",
@@ -64,22 +64,22 @@
 
     "dynos_restart_level": "A Live Hive Mind or Two",
     "dynos_exit_level": "Waterfleet",
-    "dynos_return_to_main_menu": "Exit Course as an Explorer",
-    "dynos_warp_to_level_submenu": "Don't Break the Lines",
-    "dynos_warp_to_level_submenu_title": "DON'T BREAK THE LINES",
+    "dynos_return_to_main_menu": "Free Wreck for Skyrim 2",
+    "dynos_warp_to_level_submenu": "Exit Under the Rody Box",
+    "dynos_warp_to_level_submenu_title": "EXIT UNDER THE RODY BOX",
     "dynos_warp_level": "East of Town's Venom",
     "dynos_warp_area": "East of New York's History Success",
     "dynos_warp_act": "Chase to the Talons of Talons",
     "dynos_warp_param": "Keep Drills Open",
     "dynos_warp_to_level": "Lights Move",
 
-    "dynos_warp_to_castle_submenu": "Free Wreck for Skyrim 2",
-    "dynos_warp_to_castle_submenu_title": "FREE WRECK FOR SKYRIM 2",
+    "dynos_warp_to_castle_submenu": "Exit Under the Coins",
+    "dynos_warp_to_castle_submenu_title": "EXIT UNDER THE COINS",
     "dynos_warp_castle": "Waterfleet",
     "dynos_warp_to_castle": "Lights Move",
 
-    "dynos_model_loader_submenu": "Model Packs",
-    "dynos_model_loader_submenu_title": "MODEL PACKS",
-    "dynos_packs_disable_all": "Disable all packs"
+    "dynos_model_loader_submenu": "Oooyyyybirdcln",
+    "dynos_model_loader_submenu_title": "OOOYYYYBIRDCLN",
+    "dynos_packs_disable_all": "Distribution No Obtained"
   }
 }
