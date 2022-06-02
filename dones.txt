@@ -1,30 +1,50 @@
 levels
 	bbh
+	bitdw
+	bitfs
+	bits
+	bob
 	castle_grounds
 	castle_inside
 	hmc
 	intro
 	ssl
+	wdw
 	wf
 	wmotr
 actors
+	blue_coin_switch
+	blue_fish
 	boo
 	boo_castle
 	book
 	bookend
 	chair
+	checkerboard_platform
 	coin
 	cannon_lid
+	exclamation_box
 	explosion
+	eyerok
 	heart
+	heave_ho
 	koopa_flag
 	mad_piano
 	metal_box
 	mr_i_iris
+	mushroom_1up
+	pokey
+	treasure_chest
+	ukiki
 	warp_pipe
+	water_ring
 textures
-	title_screen_bg
+	generic
+	inside
+	mountain
+	outside
 	spooky
+	title_screen_bg
 
 
 COPYING COMPLETE

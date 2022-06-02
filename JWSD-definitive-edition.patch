@@ -69,7 +69,7 @@ index 00000000..5dc94c8a
 +    "langLogo": "none"
 +  },
 +  "options": {
-+    "DYNOS_TEXT_DYNOS_MENU": "DYNOS MENU",
++    "DYNOS_TEXT_DYNOS_MENU": "LIKE STALKING DEAD GRAVITY",
 +    "DYNOS_TEXT_A": "([A]) >",
 +    "DYNOS_TEXT_OPEN_LEFT": "[Z] Reuters",
 +    "DYNOS_TEXT_CLOSE_LEFT": "[Z] British",
@@ -2120,18 +2120,20 @@ index 00000000..6d50a2c8
 +        },
 +        {
 +            "ID": 107,
-+            "linesPerBox": 2,
++            "linesPerBox": 3,
 +            "leftOffset": 95,
 +            "width": 200,
 +            "lines": [
-+                "Who...is he???",
-+                "Who...shall...be...him?",
-+                "He is nothing but...",
-+                "...a bumbling",
-+                "bumbling baby!",
-+                "Whaddya say?",
-+                "You might say...",
-+                "...thanks!"
++                "We'll walk...slowly...",
++                "Then walk...",
++                "slowly...",
++                "...then...",
++                "We'll win the Longkmatar War...",
++                "...if you stay...",
++                "...I'll stand here...",
++                "...then...",
++                "...I'll...",
++                "...win!"
 +            ]
 +        },
 +        {
@@ -2295,16 +2297,14 @@ index 00000000..6d50a2c8
 +            "leftOffset": 95,
 +            "width": 200,
 +            "lines": [
-+                "We'll walk...slowly...",
-+                "Then walk...",
-+                "slowly...",
-+                "...then...",
-+                "We'll win the Longkmatar War...",
-+                "...if you stay...",
-+                "...I'll stand here...",
-+                "...then...",
-+                "...I'll...",
-+                "...win!"
++                "Who...is he???",
++                "Who...shall...be...him?",
++                "He is nothing but...",
++                "...a bumbling",
++                "bumbling baby!",
++                "Whaddya say?",
++                "You might say...",
++                "...thanks!"
 +            ]
 +        },
 +        {
@@ -3901,14 +3901,14 @@ index 00000000..6d50a2c8
 +        "TEXT_CONTINUE": "SMALL BUS",
 +        "TEXT_EXIT_COURSE": "WATERFLEET",
 +        "TEXT_EXIT_GAME": "TOP SPEED FOOTBALL",
-+        "TEXT_CAMERA_ANGLE_R": "SET CAMERA ANGLE WITH R",
++        "TEXT_CAMERA_ANGLE_R": "DREAMCOLLECTION'S EXCLAMATION'S FINAL DODGEON HEAD WARM!",
 +        "TEXT_LAKITU_MARIO": "38 URBAN GOATS",
 +        "TEXT_LAKITU_STOP": "GO BIG OR DIE",
 +        "TEXT_NORMAL_UPCLOSE": "TAILED BEASTS SING",
 +        "TEXT_NORMAL_FIXED": "TURKEY VS EU MOM",
 +        "TEXT_CATCH": "AUTO",
 +        "TEXT_CLEAR": "NO",
-+        "TEXT_HUD_HI_SCORE": "HI SCORE",
++        "TEXT_HUD_HI_SCORE": "IGNORE THE SCREEN ROOM",
 +        "TEXT_SAVE_AND_CONTINUE": "SAVE AND START DECEIPATION",
 +        "TEXT_SAVE_AND_QUIT": "EXIT COURSE AS AN EXPLORER",
 +        "TEXT_SAVE_EXIT_GAME": "EXIT COURSE TO WIN X EUROPEAN CAMERA",
@@ -3936,7 +3936,7 @@ index 00000000..5dc94c8a
 +    "langLogo": "none"
 +  },
 +  "options": {
-+    "DYNOS_TEXT_DYNOS_MENU": "DYNOS MENU",
++    "DYNOS_TEXT_DYNOS_MENU": "LIKE STALKING DEAD GRAVITY",
 +    "DYNOS_TEXT_A": "([A]) >",
 +    "DYNOS_TEXT_OPEN_LEFT": "[Z] Reuters",
 +    "DYNOS_TEXT_CLOSE_LEFT": "[Z] British",
@@ -5987,18 +5987,20 @@ index 00000000..6d50a2c8
 +        },
 +        {
 +            "ID": 107,
-+            "linesPerBox": 2,
++            "linesPerBox": 3,
 +            "leftOffset": 95,
 +            "width": 200,
 +            "lines": [
-+                "Who...is he???",
-+                "Who...shall...be...him?",
-+                "He is nothing but...",
-+                "...a bumbling",
-+                "bumbling baby!",
-+                "Whaddya say?",
-+                "You might say...",
-+                "...thanks!"
++                "We'll walk...slowly...",
++                "Then walk...",
++                "slowly...",
++                "...then...",
++                "We'll win the Longkmatar War...",
++                "...if you stay...",
++                "...I'll stand here...",
++                "...then...",
++                "...I'll...",
++                "...win!"
 +            ]
 +        },
 +        {
@@ -6162,16 +6164,14 @@ index 00000000..6d50a2c8
 +            "leftOffset": 95,
 +            "width": 200,
 +            "lines": [
-+                "We'll walk...slowly...",
-+                "Then walk...",
-+                "slowly...",
-+                "...then...",
-+                "We'll win the Longkmatar War...",
-+                "...if you stay...",
-+                "...I'll stand here...",
-+                "...then...",
-+                "...I'll...",
-+                "...win!"
++                "Who...is he???",
++                "Who...shall...be...him?",
++                "He is nothing but...",
++                "...a bumbling",
++                "bumbling baby!",
++                "Whaddya say?",
++                "You might say...",
++                "...thanks!"
 +            ]
 +        },
 +        {
@@ -7768,14 +7768,14 @@ index 00000000..6d50a2c8
 +        "TEXT_CONTINUE": "SMALL BUS",
 +        "TEXT_EXIT_COURSE": "WATERFLEET",
 +        "TEXT_EXIT_GAME": "TOP SPEED FOOTBALL",
-+        "TEXT_CAMERA_ANGLE_R": "SET CAMERA ANGLE WITH R",
++        "TEXT_CAMERA_ANGLE_R": "DREAMCOLLECTION'S EXCLAMATION'S FINAL DODGEON HEAD WARM!",
 +        "TEXT_LAKITU_MARIO": "38 URBAN GOATS",
 +        "TEXT_LAKITU_STOP": "GO BIG OR DIE",
 +        "TEXT_NORMAL_UPCLOSE": "TAILED BEASTS SING",
 +        "TEXT_NORMAL_FIXED": "TURKEY VS EU MOM",
 +        "TEXT_CATCH": "AUTO",
 +        "TEXT_CLEAR": "NO",
-+        "TEXT_HUD_HI_SCORE": "HI SCORE",
++        "TEXT_HUD_HI_SCORE": "IGNORE THE SCREEN ROOM",
 +        "TEXT_SAVE_AND_CONTINUE": "SAVE AND START DECEIPATION",
 +        "TEXT_SAVE_AND_QUIT": "EXIT COURSE AS AN EXPLORER",
 +        "TEXT_SAVE_EXIT_GAME": "EXIT COURSE TO WIN X EUROPEAN CAMERA",
