@@ -4,6 +4,7 @@ levels
 	bitfs
 	bits
 	bob
+	bowser_2
 	castle_grounds
 	castle_inside
 	hmc
@@ -15,29 +16,54 @@ levels
 actors
 	blue_coin_switch
 	blue_fish
+	bobomb
+	bomb
 	boo
 	boo_castle
+	boo_key:r96
 	book
 	bookend
+	bowser:classic
+	bowser:r96
+	breakable_box
+	burn_smoke
+	cannon_barrel
+	cannon_base
+	cannon_lid
+	chain_ball
 	chair
 	checkerboard_platform
 	coin
-	cannon_lid
+	cyan_fish
+	door
 	exclamation_box
 	explosion
 	eyerok
+	fwoosh
 	heart
 	heave_ho
+	king_bobomb
 	koopa_flag
+	luigi:r96
+	luigi_cap:r96
 	mad_piano
 	metal_box
+	mist
 	mr_i_iris
 	mushroom_1up
+	peach:classic
+	peach:r96
 	pokey
+	star
+	toad:classic
+	toad:r96
 	treasure_chest
+	tree
 	ukiki
+wario:r96
 	warp_pipe
 	water_ring
+	yoshi
 textures
 	generic
 	inside
@@ -45,6 +71,3 @@ textures
 	outside
 	spooky
 	title_screen_bg
-
-
-COPYING COMPLETE
