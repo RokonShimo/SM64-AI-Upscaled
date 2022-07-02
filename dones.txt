@@ -4,16 +4,26 @@ levels
 	bitfs
 	bits
 	bob
+	bowser_1
 	bowser_2
+	bowser_3
 	castle_grounds
 	castle_inside
 	hmc
 	intro
+	lll
+	pss
+	rr
+	sl
 	ssl
+	thi
 	wdw
 	wf
 	wmotr
 actors
+	amp
+	blargg
+	blargg_friendly
 	blue_coin_switch
 	blue_fish
 	bobomb
@@ -25,21 +35,35 @@ actors
 	bookend
 	bowser:classic
 	bowser:r96
+	bowser_flame
 	breakable_box
+	bub
+	bubba
 	burn_smoke
 	cannon_barrel
 	cannon_base
 	cannon_lid
 	chain_ball
+	chain_chomp
 	chair
 	checkerboard_platform
+	chuckya
+	clam_shell
 	coin
 	cyan_fish
+	dirt
 	door
+	dorrie
 	exclamation_box
+	exclamation_box_outline
 	explosion
 	eyerok
+	
+	flyguy
 	fwoosh
+	
+	goomba
+	
 	heart
 	heave_ho
 	king_bobomb
@@ -47,6 +71,10 @@ actors
 	luigi:r96
 	luigi_cap:r96
 	mad_piano
+	mario:r96
+	mario
+	mario_cap:r96
+	mario_cap
 	metal_box
 	mist
 	mr_i_iris
@@ -54,17 +82,31 @@ actors
 	peach:classic
 	peach:r96
 	pokey
+	power_meter
+	
+	sand
+	
 	star
 	toad:classic
 	toad:r96
 	treasure_chest
 	tree
 	ukiki
-wario:r96
+	wario:r96
+	wario_cap:r96
+	wario_coin:r96
 	warp_pipe
+	warp_pipe_boo:r96
+	
 	water_ring
+	
+	wooden_signpost
+	
+	yellow_sphere
+	yellow_sphere_small
 	yoshi
 textures
+	cave
 	generic
 	inside
 	mountain

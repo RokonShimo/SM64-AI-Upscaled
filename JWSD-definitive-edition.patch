@@ -89,7 +89,7 @@ index 00000000..5dc94c8a
 +    "DYNOS_LEVEL_TEXT_100_COINS_STAR": "OSTEOPOROSIS",
 +    "DYNOS_LEVEL_TEXT_RED_COINS_STAR": "THE FIVE PILLAR PHOENIX",
 +    "DYNOS_LEVEL_TEXT_ONE_SECRET_STAR": "ONE MORE TO CLOSE THE COURSE'S BLOG!",
-+    "DYNOS_LEVEL_TEXT_FOURTH_FLOOR": "THE LAST TALONS OF THE SECRET WAR",
++    "DYNOS_LEVEL_TEXT_FOURTH_FLOOR": "AWAY FROM THE INSURGENCY COURSE",
 +
 +    "DYNOS_AREA_TEXT_NOT_AVAILABLE": "THROUGH THE PRIMARY GAME",
 +    "DYNOS_AREA_TEXT_MAIN_AREA": "THAT IS THE BOOK DYNAMICS",
@@ -3345,7 +3345,7 @@ index 00000000..6d50a2c8
 +                "BEAT THE BULLY",
 +                "BOTH OF YOU A RUNAWAY!",
 +                "FROSTY TURBO IN THE TOWN",
-+                "MONTHLY AND LUNCH SPECIAL!",
++                "CHANGE CHEAP SHELL WITH HAPPY-E",
 +                "LOCKE THE PYRAMID"
 +            ]
 +        },
@@ -3660,7 +3660,7 @@ index 00000000..6d50a2c8
 +        "TEXT_OPT_CHEAT_JUKEBOX_HMC_PHASE_1": "Sale Rainbow Lost for Revenge",
 +        "TEXT_OPT_CHEAT_JUKEBOX_HMC_PHASE_2": "Be Rendering Steam Land",
 +        "TEXT_OPT_CHEAT_JUKEBOX_LLL_OUTSIDE": "Switchboro Advisory",
-+        "TEXT_OPT_CHEAT_JUKEBOX_LLL_VOLCANO": "Monthly and Lunch Special!",
++        "TEXT_OPT_CHEAT_JUKEBOX_LLL_VOLCANO": "Change Cheap Shell With Happy-E",
 +        "TEXT_OPT_CHEAT_JUKEBOX_SSL_OUTSIDE": "In the Land of Trap and Damage",
 +        "TEXT_OPT_CHEAT_JUKEBOX_SSL_PYRAMID": "Quick, Dirty Work!",
 +        "TEXT_OPT_CHEAT_JUKEBOX_SSL_EYEROK": "Caps on the Top of the Tower",
@@ -3695,7 +3695,7 @@ index 00000000..6d50a2c8
 +        "TEXT_OPT_CHEAT_JUKEBOX_INSIDE_CASTLE_BASEMENT": "Castle of the Vanish Sand",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CASTLE_GROUNDS": "Any Fourthchant",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CASTLE_COURTYARD": "All Fourthchant",
-+        "TEXT_OPT_CHEAT_JUKEBOX_FOURTH_FLOOR": "The Last Talons of the Secret War",
++        "TEXT_OPT_CHEAT_JUKEBOX_FOURTH_FLOOR": "Away from the Insurgency Course",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CAP_WING": "Object Cap",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CAP_VANISH": "Moon Cap",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CAP_METAL": "Master Cap",
@@ -3956,7 +3956,7 @@ index 00000000..5dc94c8a
 +    "DYNOS_LEVEL_TEXT_100_COINS_STAR": "OSTEOPOROSIS",
 +    "DYNOS_LEVEL_TEXT_RED_COINS_STAR": "THE FIVE PILLAR PHOENIX",
 +    "DYNOS_LEVEL_TEXT_ONE_SECRET_STAR": "ONE MORE TO CLOSE THE COURSE'S BLOG!",
-+    "DYNOS_LEVEL_TEXT_FOURTH_FLOOR": "THE LAST TALONS OF THE SECRET WAR",
++    "DYNOS_LEVEL_TEXT_FOURTH_FLOOR": "AWAY FROM THE INSURGENCY COURSE",
 +
 +    "DYNOS_AREA_TEXT_NOT_AVAILABLE": "THROUGH THE PRIMARY GAME",
 +    "DYNOS_AREA_TEXT_MAIN_AREA": "THAT IS THE BOOK DYNAMICS",
@@ -7212,7 +7212,7 @@ index 00000000..6d50a2c8
 +                "BEAT THE BULLY",
 +                "BOTH OF YOU A RUNAWAY!",
 +                "FROSTY TURBO IN THE TOWN",
-+                "MONTHLY AND LUNCH SPECIAL!",
++                "CHANGE CHEAP SHELL WITH HAPPY-E",
 +                "LOCKE THE PYRAMID"
 +            ]
 +        },
@@ -7527,7 +7527,7 @@ index 00000000..6d50a2c8
 +        "TEXT_OPT_CHEAT_JUKEBOX_HMC_PHASE_1": "Sale Rainbow Lost for Revenge",
 +        "TEXT_OPT_CHEAT_JUKEBOX_HMC_PHASE_2": "Be Rendering Steam Land",
 +        "TEXT_OPT_CHEAT_JUKEBOX_LLL_OUTSIDE": "Switchboro Advisory",
-+        "TEXT_OPT_CHEAT_JUKEBOX_LLL_VOLCANO": "Monthly and Lunch Special!",
++        "TEXT_OPT_CHEAT_JUKEBOX_LLL_VOLCANO": "Change Cheap Shell With Happy-E",
 +        "TEXT_OPT_CHEAT_JUKEBOX_SSL_OUTSIDE": "In the Land of Trap and Damage",
 +        "TEXT_OPT_CHEAT_JUKEBOX_SSL_PYRAMID": "Quick, Dirty Work!",
 +        "TEXT_OPT_CHEAT_JUKEBOX_SSL_EYEROK": "Caps on the Top of the Tower",
@@ -7562,7 +7562,7 @@ index 00000000..6d50a2c8
 +        "TEXT_OPT_CHEAT_JUKEBOX_INSIDE_CASTLE_BASEMENT": "Castle of the Vanish Sand",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CASTLE_GROUNDS": "Any Fourthchant",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CASTLE_COURTYARD": "All Fourthchant",
-+        "TEXT_OPT_CHEAT_JUKEBOX_FOURTH_FLOOR": "The Last Talons of the Secret War",
++        "TEXT_OPT_CHEAT_JUKEBOX_FOURTH_FLOOR": "Away from the Insurgency Course",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CAP_WING": "Object Cap",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CAP_VANISH": "Moon Cap",
 +        "TEXT_OPT_CHEAT_JUKEBOX_CAP_METAL": "Master Cap",
