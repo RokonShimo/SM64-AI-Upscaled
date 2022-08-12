@@ -9,14 +9,25 @@ levels
 	bowser_3
 	castle_grounds
 	castle_inside
+	
+	
+	
+	
+	
 	hmc
 	intro
+	jrb
 	lll
+	menu [except JP]
 	pss
 	rr
 	sl
 	ssl
 	thi
+	
+	
+	ttm
+	vcutm
 	wdw
 	wf
 	wmotr
@@ -58,40 +69,76 @@ actors
 	exclamation_box_outline
 	explosion
 	eyerok
-	
+	flame
 	flyguy
 	fwoosh
-	
 	goomba
-	
+	haunted_cage
 	heart
 	heave_ho
+	hoot
+	impact_ring
+	impact_smoke
 	king_bobomb
+	klepto
+	koopa
 	koopa_flag
+	koopa_shell
+	lakitu_cameraman
+	lakitu_enemy
+	leaves
 	luigi:r96
 	luigi_cap:r96
 	mad_piano
+	manta
 	mario:r96
 	mario
 	mario_cap:r96
 	mario_cap
 	metal_box
+	milk_bottle
+	mips
 	mist
+	
+	
+	
+	
+	
 	mr_i_iris
 	mushroom_1up
 	peach:classic
 	peach:r96
-	pokey
-	power_meter
+	pebble
 	
+	pokey
+	
+	
+	power_meter
+	purple_switch
 	sand
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	star
+	
+	
+	
+	
 	toad:classic
 	toad:r96
+	
 	treasure_chest
 	tree
 	ukiki
+	
+	
 	wario:r96
 	wario_cap:r96
 	wario_coin:r96
@@ -100,16 +147,34 @@ actors
 	
 	water_ring
 	
-	wooden_signpost
 	
+	
+	
+	
+	
+	
+	wooden_signpost
 	yellow_sphere
 	yellow_sphere_small
 	yoshi
 textures
 	cave
+	
+	
 	generic
+	
 	inside
+	
+	
+	
+	
 	mountain
 	outside
+	
+	
+	
+	
+	special [ENG]
 	spooky
 	title_screen_bg
+	water
