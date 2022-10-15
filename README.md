@@ -5,7 +5,7 @@ A texture pack and translation patch for [Render96ex](https://sm64pc.info)
 For use with a vanilla US rom
 
 Play at own risk. Not suitable for children.
-Don't say I didn't warn you about: Body Horror, Realistic Eyes, Seizure Hazards, Unsettling Imagery,
+Don't say I didn't warn you about: Body Horror, Realistic Eyes, Seizure Hazards, Trypophobia, Master Chaos knows what else
 
 ## The Question  
 > What happens when I tell a neural network to rewrite Super Mario 64 from memory? 
@@ -19,7 +19,7 @@ I had another idea.
 ## The Mistake  
 > What if I told *another* neural network to generate paintings based on what GPT-2 thinks the courses are called?  
 
-Said neural network turned out to be [VQGAN+CLIP.](https://colab.research.google.com/drive/1wkF67ThUz37T2_oPIuSwuO4e_-0vjaLs?usp=sharing)  
+Said neural network turned out to be [VQGAN+CLIP](https://colab.research.google.com/drive/1wkF67ThUz37T2_oPIuSwuO4e_-0vjaLs?usp=sharing).
 I told it to generate paintings based on the names I'd chosen for each course. But while searching for the painting textures in the files, I found several other textures that directly related to Stars. Those, I generated using the new names of their respective stars, applying transparency manually where applicable since CLIP could not. In some cases, I gave it the original texture as a base, or a goal.
 
 Guess what happens next.
@@ -41,7 +41,7 @@ I now have an Alpha Build.
 
 > ***Chaos.***
 
-For some textures, I gave VQGAN+CLIP the original texture to upscale to 4x resolution, as well as a description of the texture. To make it loop (close to) properly, I shifted the output by a little bit in each direction and put it back through VQGAN for a couple of iterations, creating a coherent transition. However, my method was anything but consistent.
+For some textures, I gave VQGAN+CLIP the original texture to upscale to 4x resolution, as well as a description of the texture. To make it loop (close to) properly, I shifted the output by a little bit in each direction and put it back through VQGAN for a couple of iterations, creating a coherent transition. However, my method was anything but consistent. For most textures, I performed a simple manual operation.
 
 A 4x upscale was chosen because that was the scale at which I had generated most of the preexisting images, in order to not put VQGAN under too much strain. Downscaling to the original resolution had sacrificed a lot of finer detail that I really liked.
 
