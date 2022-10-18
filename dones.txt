@@ -4,23 +4,5 @@ levels
 actors
 	ALL!!
 textures
-	cave
-	effect
-	fire
-	generic
-	
-	inside
-	intro_raw
-	ipl3_raw
-	logo
-	
-	mountain
-	outside
-	segment2
-
-	skyboxes
-	
-	special [ENG]
-	spooky
-	title_screen_bg
-	water
+	TODO!!
+	special jp

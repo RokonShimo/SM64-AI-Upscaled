@@ -1,8 +1,4 @@
 # User-specific files
-!gfx/actors/bowser
 *.lnk
 *.txt
-*.zip
 [Mm]ystuff/
-*.c
-!Texts/src/game/level_update.c
