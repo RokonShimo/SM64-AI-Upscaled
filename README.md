@@ -8,13 +8,14 @@ Play at own risk. Not suitable for children.
 Don't say I didn't warn you about: Body Horror, Realistic Eyes, Seizure Hazards, Trypophobia, Master Chaos knows what else
 
 ## How To Use
+- Clone the repo. Don't use releases. Or do.
 - Install Render96ex using [sm64pcBuilder2](https://sm64pc.info).
-- Apply Credits.patch while compiling the game to change the names in the credits. (It does not credit the people who contributed to this, that's further down)
+- Apply Credits.patch while compiling the game to enable the custom credits.
 - Install your chosen texture pack using the glowing button after compiling the game.
 	- Jiggly Wiggly's Super Dash.zip: The full package for maximum fever dreamage.
 	- Jiggly Wiggly's Super Hyphen.zip: Leaves all textures relating to fonts unchanged, for COWARDS who want to be able to read the text easily.
 	- Jiggly Wiggly's Super Stroll.zip: An unintrusive texture pack that's easier on the eyes. I don't even remember what's in this but it should be mostly normal.
-	- Something might happen if you combine Hyphen and Stroll.
+	- You can combine the bottom two to leave essential text legible while messing with other stuff.
 - Copy the contents of the Texts folder to where your files are stored. 
 - After loading the game, change your language to "Mario Party: The Muppets" through the pause menu.
 
