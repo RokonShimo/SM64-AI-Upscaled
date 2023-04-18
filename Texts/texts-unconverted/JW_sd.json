@@ -3755,14 +3755,14 @@
         "TEXT_SAVE_AND_QUIT": "EXIT COURSE AS AN EXPLORER",
         "TEXT_SAVE_EXIT_GAME": "EXIT COURSE TO WIN X EUROPEAN CAMERA",
         "TEXT_CONTINUE_WITHOUT_SAVING": "PEACH CHRISTMASS",
-        "TEXT_FILE_MARIO_EXCLAMATION": "Hey, it's me. RokonShimo.",
-        "TEXT_POWER_STARS_RESTORED": "Thanks for playing this abomination.",
-        "TEXT_THANKS_TO_YOU": "It means a lot to me.",
-        "TEXT_THANK_YOU_MARIO": "Special thanks to Max Woolf and Katherine Crowson...",
-        "TEXT_SOMETHING_SPECIAL": "Without whom none of this would be possible.",
-        "TEXT_LISTEN_EVERYBODY": "Max also made the GPT-2 notebook...",
-        "TEXT_LETS_HAVE_CAKE": "that I used to generate the text.",
-        "TEXT_FOR_MARIO": "Check the Readme and try it out yourself!",
-        "TEXT_FILE_MARIO_QUESTION": "By the way, I changed the credits too."
+        "TEXT_FILE_MARIO_EXCLAMATION": "Alola!",
+        "TEXT_POWER_STARS_RESTORED": "It's me, Rokon.",
+        "TEXT_THANKS_TO_YOU": "Thank you for playing this abomination.",
+        "TEXT_THANK_YOU_MARIO": "Seriously,",
+        "TEXT_SOMETHING_SPECIAL": "it means so much to me.",
+        "TEXT_LISTEN_EVERYBODY": "By the way,",
+        "TEXT_LETS_HAVE_CAKE": "This would never have been possible",
+        "TEXT_FOR_MARIO": "without any of these guys.",
+        "TEXT_FILE_MARIO_QUESTION": "Alola!"
     }
 }

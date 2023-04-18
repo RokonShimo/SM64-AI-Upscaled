@@ -32,27 +32,27 @@ index c221a818..a83cf82f 100644
 -                           "MARIO CLUB STAFF" };
 -const char *credits19[] = { "1PRODUCER", "SHIGERU MIYAMOTO" };
 -const char *credits20[] = { "1EXECUTIVE PRODUCER", "HIROSHI YAMAUCHI" };
-+const char *credits01[] = { "1YOJI INEMIC UNIVERSE PLANET DESIGNER", "MARIO JULIEN MICHELS" };
-+const char *credits02[] = { "2TECHNICAL PACKAGES", "THOMAS OLAF OLENKI", "HES KROOT" };
-+const char *credits03[] = { "2FAST BREAK SYNC PRO", "GEORGE L FRANKFURT", "BEN JONES" };
-+const char *credits04[] = { "3PEACE TRANSLATION", "YAUKI TEIZU", "KEVIN NOIND OVERDOS", "VINCENT" };
-+const char *credits05[] = { "1WINNIPREG WRITER", "YOJI HAIKOTA" };
-+const char *credits06[] = { "1COMMERCIAL ORITERIO", "LUIS MARION FIDEAU OF FILIPEDRA" };
-+const char *credits07[] = { "2CHICEHOCKEY SHORT FORMULA", "MOTTE DE TOLGREVE", "GIANELLI ABITEBOULME" };
-+const char *credits08[] = { "2TEXAS STREET EXECUTIVE PROGRAMMERS", "DAVE HAZELER", "GREG HAZELER" };
-+const char *credits09[] = { "3EXIT PROPERTY OPTIONS", "ARCHIVIAN DONOVAN", "MICHAEL JACKSON",
-+                            "MICHELE NORTON" };
-+const char *credits10[] = { "1DAZIEL ATHLETE DESIGNER", "ED GU STEROIS" };
-+const char *credits11[] = { "1VAIN GIBBON TRANSLATION", "ADA COPYING" };
-+const char *credits12[] = { "1SUPERCRIMINARY HQ WORLD CREATOR", "JOIZIAL TONY NINICH" };
++const char *credits01[] = { "1CREATIVE DIRECTOR", "ROKONSHIMO" };
++const char *credits02[] = { "3IMAGE GENERATOR", "MAX WOOLF", "KATHERINE CROWSON", "AHSEN KHALIQ" };
++const char *credits03[] = { "2IMAGE EDITOR USED", "PAINT DOT NET", "RICK BREWSTER" };
++const char *credits04[] = { "1TEXT GENERATOR", "MAX WOOLF" };
++const char *credits05[] = { "2FONTS USED", "DEEP SCRIPT 2", "MAXIM LEYZEROVICH" };
++const char *credits06[] = { "3FONTS USED", "LUCIDA CALLIGRAPHY", "CHARLES BIGELOW", "CHRIS HOLMES" };
++const char *credits07[] = { "3FONTS USED", "LINJA PONA", "DAVID ROBERTS", "JAN WESI" };
++const char *credits08[] = { "1PROGRAMMING", "RENDER NINETY-SIX TEAM" };
++const char *credits09[] = { "3COMPILING TOOL", "GUNVALK", "FILIPIANOSOL",
++                            "GAMMATENDONNINE" };
++const char *credits10[] = { "1ORIGINAL GAME", "NINTENDO" };
++const char *credits11[] = { "2WAIT ITS STILL GOING", "THERES NO MORE CREDITS", "HAVE SOME AI ONES I GUESS" };
++const char *credits12[] = { "1YOJI INEMIC UNIVERSE PLANET DESIGNER", "MARIO JULIEN MICHELS" };
 +const char *credits13[] = { "23-D MARKER MARKER MARKER", "YOJIMOTO TYPE-A ADMIN", "HAZHAZARD MATTEO SEWELLS" };
 +const char *credits14[] = { "1STARCARNER", "ZOMBIE JAI HAWKEYE" };
-+const char *credits15[] = { "3HUGE BERLIN CLUB TRANSCRIPT", "THOMAS SUICIDE YAMADA", "FAYEK HAZARD", "YA BOIHONG" };
++const char *credits15[] = { "2TEXAS STREET EXECUTIVE PROGRAMMERS", "DAVE HAZELER", "GREG HAZELER" };
 +const char *credits16[] = { "1JAPANESE TANK TROOPER CHARACTER CREATION", "JOHN" };
 +const char *credits17[] = { "2FOOD SPOTNER", "TATSUO SATO", "SATOSHI SAITO" };
 +const char *credits18[] = { "3VICMARK SOCIONICS CREWMEN", "YACHTY ISAMAYOR", "KATTUSUHIMOHO",
 +                            "SUPER APART NL LAB" };
-+const char *credits19[] = { "1TECHNICAL OVERRIDE", "DAVE LEAGUE" };
++const char *credits19[] = { "1DAZIEL ATHLETE DESIGNER", "ED GU STEROIS" };
 +const char *credits20[] = { "1MARIO CLUB AGENT MAY ALSO BE MAY GOD", "JULIANNE KIMMAREJI" };
  
  struct CreditsEntry sCreditsSequence[] = {
